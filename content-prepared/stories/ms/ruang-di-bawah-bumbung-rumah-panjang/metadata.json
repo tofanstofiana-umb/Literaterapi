@@ -1,0 +1,50 @@
+{
+  "slug": "ruang-di-bawah-bumbung-rumah-panjang",
+  "title": "Ruang di Bawah Bumbung Rumah Panjang",
+  "originCountry": "Malaysia",
+  "originalLanguage": "ms-MY",
+  "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 6/Teks-malay-6.docx",
+  "sourceTitleParagraphIndex": 1,
+  "sourceIntroParagraphs": [
+    "Untuk remaja yang sukar memahami kehidupan sebenar"
+  ],
+  "rawWordCount": 722,
+  "cleanWordCount": 715,
+  "readingEstimateMinutes": 4,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "psychosis_related",
+  "publicCategorySlugs": [
+    "meminta-bantuan",
+    "menemukan-harapan",
+    "mencari-pegangan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/07344aef-9f00-4972-9368-f4c8976fb4a0.png",
+    "illustrations/1.png",
+    "illustrations/147704cd-db88-47ef-830f-01b968e3cf40.png",
+    "illustrations/21bf04fd-205e-4120-bd96-5baafceaf02a.png",
+    "illustrations/4f698b81-ed08-4bdb-a401-64d0d508de9b.png",
+    "illustrations/6953f610-6457-48e8-9cde-f36824488657.png",
+    "illustrations/6a191ef0-28e3-48ed-9b72-ee81b5f2bc47.png",
+    "illustrations/79a8d84f-5534-4e24-b9b1-964b2c134ece.png",
+    "illustrations/afc542fd-292a-40cd-807a-80205ec79dc4.png",
+    "illustrations/b6b71ba7-a85e-4daf-b4ec-af690f502e22.png",
+    "illustrations/c61e9f51-03a3-45cf-93a6-f81180d584ac.png",
+    "illustrations/e02e5cc4-9cfd-4de9-84fa-22538589d50f.png"
+  ],
+  "notes": [
+    "Dokumen sumber memiliki pengantar sebelum judul cerpen; lihat sourceIntroParagraphs dan source-full.md."
+  ],
+  "publicCategoryRationale": {
+    "meminta-bantuan": "mendorong siswa mengenali bahwa dukungan orang lain boleh dicari",
+    "menemukan-harapan": "menekankan kemungkinan pulih, bertumbuh, atau menemukan arah baru",
+    "mencari-pegangan": "menekankan penemuan pijakan diri, nilai, rutinitas, atau orang tepercaya"
+  }
+}

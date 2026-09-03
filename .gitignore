@@ -1,0 +1,23 @@
+# Next.js
+/.next/
+/out/
+
+# Dependencies
+/node_modules/
+
+# Env
+.env.local
+.env*.local
+
+# Build/misc
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+npm-debug.log*
+.codex-next-dev.*.log
+
+.vercel
+.npm-cache/
+
+# Large local media (exceeds GitHub 100MB file limit)
+/Reading Under Ancient Tree*.mp3

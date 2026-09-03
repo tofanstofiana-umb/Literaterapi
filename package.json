@@ -1,0 +1,46 @@
+{
+  "name": "literaterapi-sakti",
+  "version": "0.1.0",
+  "private": true,
+  "description": "LITERATERAPI-SAKTI — aplikasi literasi reflektif berbasis cerpen untuk siswa 12-14 tahun (Indonesia & Malaysia), dibangun dengan Next.js + Supabase.",
+  "scripts": {
+    "dev": "next dev",
+    "db:migrate": "node scripts/run-supabase-migrations.mjs",
+    "db:verify-security": "node scripts/verify-schema-migrations-security.mjs",
+    "db:repair-student-registration": "node scripts/repair-student-registration-state.mjs",
+    "generate:translations": "node scripts/generate-static-story-translations.mjs",
+    "generate:content": "node scripts/generate-content.mjs && node scripts/generate-static-story-translations.mjs",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.9.0",
+    "@supabase/ssr": "^0.5.1",
+    "@supabase/supabase-js": "^2.45.0",
+    "clsx": "^2.1.1",
+    "next": "^14.2.5",
+    "next-intl": "^3.17.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.52.2",
+    "server-only": "^0.0.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.15",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.5",
+    "pg": "^8.22.0",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.9",
+    "typescript": "^5.5.4"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  }
+}

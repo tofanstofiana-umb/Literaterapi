@@ -1,0 +1,83 @@
+{
+  "slug": "warisan-tanpa-nama",
+  "title": "Warisan Tanpa Nama",
+  "originCountry": "Indonesia",
+  "originalLanguage": "id-ID",
+  "sourceDocx": "content-raw/Cerpen Indonesia/SAKTI_Behavioral_Cerpen 6_Warisan Tanpa Nama.docx",
+  "sourceTitleParagraphIndex": 7,
+  "sourceIntroParagraphs": [
+    "PAHAMI TENTANG \"GANGGUAN PERILAKU (BEHAVIORAL DISORDER)\" DENGAN \"SAKTI\"",
+    "(SADARI, AKTIF, KRITIS, TERBUKA, IMERSI)",
+    "Salam. Semoga Anda senantiasa diberi kesehatan, aamiin.",
+    "Selamat bergabung di media SAKTI ini. Anda akan mendapatkan informasi yang bermanfaat tentang belajar memahami perasaan orang lain dan bertanggung jawab atas tindakan sendiri melalui kisah singkat. Mari nikmati langkah-langkahnya!",
+    "Narator: Anda akan membaca cerita yang berisi pengalaman seorang remaja yang belajar memahami perasaan orang lain setelah hampir kehilangan sosok yang berharga, dengan penuh kesadaran karena Anda menyayangi diri Anda.",
+    "\"Sebelum saya membaca cerita ini, saya membuka hati dan pikiran saya dengan tenang. Saya menyayangi diri saya, walau kadang saya sulit memahami perasaan orang lain.\"",
+    "Narator: Silakan baca kisah berikut dengan saksama."
+  ],
+  "rawWordCount": 1128,
+  "cleanWordCount": 1174,
+  "readingEstimateMinutes": 7,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "behavioral_related",
+  "publicCategorySlugs": [
+    "mengelola-emosi",
+    "meminta-bantuan",
+    "mencari-pegangan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped_best_effort",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/scene-019-337df2de-a1df-4b82-b1e8-c5f0230d09cc.png",
+    "illustrations/scene-052-726fbfe8-80a7-47c8-b763-df4dad0ac81b.png",
+    "illustrations/scene-081-9ec17aa9-de92-4826-94fe-558c5dc6956b.png",
+    "illustrations/scene-103-cepen.png"
+  ],
+  "notes": [
+    "Gambar Indonesia belum dipetakan otomatis; lihat content-raw/contact-sheets.",
+    "Dokumen sumber memiliki pengantar sebelum judul cerpen; lihat sourceIntroParagraphs dan source-full.md.",
+    "Sampul Indonesia dipetakan dari contact sheet berdasarkan judul yang terlihat; ilustrasi adegan belum dipaksa karena file mentah tidak membawa penanda cerita.",
+    "Ilustrasi adegan Indonesia dipetakan secara best-effort dari contact sheet; tinjau ulang bila digunakan sebagai bukti visual final."
+  ],
+  "publicCategoryRationale": {
+    "mengelola-emosi": "menekankan pengenalan emosi dan cara meresponsnya dengan aman",
+    "meminta-bantuan": "mendorong siswa mengenali bahwa dukungan orang lain boleh dicari",
+    "mencari-pegangan": "menekankan penemuan pijakan diri, nilai, rutinitas, atau orang tepercaya"
+  },
+  "coverSource": "content-raw/Cerpen Indonesia/560b4fb6-91b0-4859-a358-61b25bda1289.png",
+  "imageMappingConfidence": "high_for_cover_mixed_for_scene_illustrations",
+  "illustrationMapping": [
+    {
+      "contactSheetIndex": 19,
+      "source": "content-raw/Cerpen Indonesia/337df2de-a1df-4b82-b1e8-c5f0230d09cc.png",
+      "file": "illustrations/scene-019-337df2de-a1df-4b82-b1e8-c5f0230d09cc.png",
+      "confidence": "medium",
+      "note": "remaja mendapat pendampingan orang dewasa"
+    },
+    {
+      "contactSheetIndex": 52,
+      "source": "content-raw/Cerpen Indonesia/726fbfe8-80a7-47c8-b763-df4dad0ac81b.png",
+      "file": "illustrations/scene-052-726fbfe8-80a7-47c8-b763-df4dad0ac81b.png",
+      "confidence": "medium",
+      "note": "remaja membaca ulang surat Kakek, ditempatkan manual setelah kalimat \"Aku baca surat itu tiga kali. Pada kali ketiga, mataku tidak bisa kering lagi.\""
+    },
+    {
+      "contactSheetIndex": 81,
+      "source": "content-raw/Cerpen Indonesia/9ec17aa9-de92-4826-94fe-558c5dc6956b.png",
+      "file": "illustrations/scene-081-9ec17aa9-de92-4826-94fe-558c5dc6956b.png",
+      "confidence": "high",
+      "note": "masuk kantin dan bermain kartu"
+    },
+    {
+      "contactSheetIndex": 103,
+      "source": "content-raw/Cerpen Indonesia/cepen.png",
+      "file": "illustrations/scene-103-cepen.png",
+      "confidence": "medium",
+      "note": "remaja berbicara dengan kakek/ayah"
+    }
+  ]
+}

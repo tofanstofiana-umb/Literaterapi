@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "status": "draft_from_raw_files",
+  "notes": [
+    "Raw files are not moved or modified.",
+    "Clinical-sounding source themes are kept as internal metadata only.",
+    "Public categories should be mapped to non-clinical story_categories before student-facing use.",
+    "Indonesia image mapping is unresolved because images are grouped in one large folder with UUID filenames."
+  ],
+  "stories": [
+    {
+      "slug": "bintang-yang-tidak-hilang",
+      "title": "Bintang yang Tidak Hilang",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "sourceDocx": "content-raw/Cerpen Indonesia/Bintang yang Tidak Hilang.docx",
+      "wordCount": 661,
+      "coverImage": null,
+      "illustrations": [],
+      "internalCategoryGuess": "psychosis_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "cahaya-yang-selalu-ada",
+      "title": "Cahaya yang Selalu Ada",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "sourceDocx": "content-raw/Cerpen Indonesia/Cahaya yang Selalu Ada 7.docx",
+      "wordCount": 642,
+      "coverImage": null,
+      "illustrations": [],
+      "internalCategoryGuess": "body_image_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "debu-yang-menari",
+      "title": "Debu yang Menari",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "sourceDocx": "content-raw/Cerpen Indonesia/Debu yang Menari.docx",
+      "wordCount": 873,
+      "coverImage": null,
+      "illustrations": [],
+      "internalCategoryGuess": "adhd_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "layang-layang-di-atas-kerikil",
+      "title": "Layang-layang di Atas Kerikil",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "sourceDocx": "content-raw/Cerpen Indonesia/Layang 5.docx",
+      "wordCount": 783,
+      "coverImage": null,
+      "illustrations": [],
+      "internalCategoryGuess": "adhd_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "pasar-malam-di-dalam-kepalaku",
+      "title": "Pasar Malam di Dalam Kepalaku",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "sourceDocx": "content-raw/Cerpen Indonesia/SAKTI_Anxiety_Cerpen 1_Pasar Malam di Dalam Kepalaku.docx",
+      "wordCount": 1181,
+      "coverImage": null,
+      "illustrations": [],
+      "internalCategoryGuess": "anxiety_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "satu-keping-sagu-untuk-berdua",
+      "title": "Satu Keping Sagu untuk Berdua",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "sourceDocx": "content-raw/Cerpen Indonesia/SAKTI_Anxiety_Cerpen 2_Satu Keping Sagu untuk Berdua.docx",
+      "wordCount": 1000,
+      "coverImage": null,
+      "illustrations": [],
+      "internalCategoryGuess": "anxiety_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "hidup-di-dalam-ceritamu-sendiri",
+      "title": "Hidup di Dalam Ceritamu Sendiri",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "sourceDocx": "content-raw/Cerpen Indonesia/SAKTI_Behavioral_Cerpen 5_Hidup di Dalam Ceritamu Sendiri.docx",
+      "wordCount": 866,
+      "coverImage": null,
+      "illustrations": [],
+      "internalCategoryGuess": "behavioral_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "warisan-tanpa-nama",
+      "title": "Warisan Tanpa Nama",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "sourceDocx": "content-raw/Cerpen Indonesia/SAKTI_Behavioral_Cerpen 6_Warisan Tanpa Nama.docx",
+      "wordCount": 1128,
+      "coverImage": null,
+      "illustrations": [],
+      "internalCategoryGuess": "behavioral_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "langit-yang-belajar-hujan",
+      "title": "Langit yang Belajar Hujan",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "sourceDocx": "content-raw/Cerpen Indonesia/SAKTI_Depressive_Cerpen 3_Langit yang Belajar Hujan.docx",
+      "wordCount": 1113,
+      "coverImage": null,
+      "illustrations": [],
+      "internalCategoryGuess": "depressive_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "nyala-yang-tidak-pernah-berkurang",
+      "title": "Nyala yang Tidak Pernah Berkurang",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "sourceDocx": "content-raw/Cerpen Indonesia/SAKTI_Depressive_Cerpen 4_Nyala yang Tidak Pernah Berkurang.docx",
+      "wordCount": 1209,
+      "coverImage": null,
+      "illustrations": [],
+      "internalCategoryGuess": "depressive_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "suara-yang-hanya-aku-dengar",
+      "title": "Suara yang Hanya Aku Dengar",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "sourceDocx": "content-raw/Cerpen Indonesia/Suara yang Hanya Aku Dengar.docx",
+      "wordCount": 659,
+      "coverImage": null,
+      "illustrations": [],
+      "internalCategoryGuess": "psychosis_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "tubuhku-bukan-musuhku",
+      "title": "Tubuhku Bukan Musuhku",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "sourceDocx": "content-raw/Cerpen Indonesia/Tubuhku Bukan Musuhku 6.docx",
+      "wordCount": 784,
+      "coverImage": null,
+      "illustrations": [],
+      "internalCategoryGuess": "body_image_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "suara-di-balai-muafakat",
+      "title": "Suara di Balai Muafakat",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 1/Teks-cerpen-malay-1.docx",
+      "wordCount": 793,
+      "coverImage": "content-raw/Cerpen Malaysia/Cerpen 1/Sampul.png",
+      "illustrationsFolder": "content-raw/Cerpen Malaysia/Cerpen 1",
+      "internalCategoryGuess": "anxiety_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "kabus-di-kaki-bukit",
+      "title": "Kabus di Kaki Bukit",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 2/Teks-cerpen-malay-2.docx",
+      "wordCount": 705,
+      "coverImage": "content-raw/Cerpen Malaysia/Cerpen 2/Sampul.png",
+      "illustrationsFolder": "content-raw/Cerpen Malaysia/Cerpen 2",
+      "internalCategoryGuess": "depressive_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "cermin-di-bilik-andam",
+      "title": "Cermin di Bilik Andam",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 3/Teks-cerpen-malay-3.docx",
+      "wordCount": 730,
+      "coverImage": "content-raw/Cerpen Malaysia/Cerpen 3/Sampul.png",
+      "illustrationsFolder": "content-raw/Cerpen Malaysia/Cerpen 3",
+      "internalCategoryGuess": "body_image_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "pintu-rumah-panjang",
+      "title": "Pintu Rumah Panjang",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 4/Teks-cerpen-malay-4.docx",
+      "wordCount": 770,
+      "coverImage": "content-raw/Cerpen Malaysia/Cerpen 4/Sampul.png",
+      "illustrationsFolder": "content-raw/Cerpen Malaysia/Cerpen 4",
+      "internalCategoryGuess": "behavioral_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "bunga-api-dalam-kepala-ammar",
+      "title": "Bunga Api dalam Kepala Ammar",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 5/Teks-cepren-malay-5.docx",
+      "wordCount": 747,
+      "coverImage": "content-raw/Cerpen Malaysia/Cerpen 5/Sampul.png",
+      "illustrationsFolder": "content-raw/Cerpen Malaysia/Cerpen 5",
+      "internalCategoryGuess": "adhd_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "ruang-di-bawah-bumbung-rumah-panjang",
+      "title": "Ruang di Bawah Bumbung Rumah Panjang",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 6/Teks-malay-6.docx",
+      "wordCount": 722,
+      "coverImage": "content-raw/Cerpen Malaysia/Cerpen 6/Sampul.png",
+      "illustrationsFolder": "content-raw/Cerpen Malaysia/Cerpen 6",
+      "internalCategoryGuess": "psychosis_related",
+      "publicCategoryGuess": null
+    },
+    {
+      "slug": "jalan-pulang-ke-rumah-panjang",
+      "title": "Jalan Pulang ke Rumah Panjang",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 7/Teks-malay-7.docx",
+      "wordCount": 768,
+      "coverImage": "content-raw/Cerpen Malaysia/Cerpen 7/Sampul.png",
+      "illustrationsFolder": "content-raw/Cerpen Malaysia/Cerpen 7",
+      "internalCategoryGuess": "substance_dependence_related",
+      "publicCategoryGuess": null
+    }
+  ],
+  "generalAssets": {
+    "hero": "content-raw/hero-literaterapi-remaja.png",
+    "dashboardIllustration": "content-raw/animasi-dashboard.png",
+    "avatars": [
+      "content-raw/avatar-laki.png",
+      "content-raw/avatar-perempuan.png",
+      "content-raw/avatar-netral.png"
+    ],
+    "audio": [
+      "content-raw/bensound-relaxing.mp3"
+    ]
+  }
+}

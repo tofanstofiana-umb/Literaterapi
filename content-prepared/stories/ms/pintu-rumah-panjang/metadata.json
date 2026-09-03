@@ -1,0 +1,48 @@
+{
+  "slug": "pintu-rumah-panjang",
+  "title": "Pintu Rumah Panjang",
+  "originCountry": "Malaysia",
+  "originalLanguage": "ms-MY",
+  "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 4/Teks-cerpen-malay-4.docx",
+  "sourceTitleParagraphIndex": 1,
+  "sourceIntroParagraphs": [
+    "Untuk remaja yang sedang mengalami gangguan perilaku"
+  ],
+  "rawWordCount": 770,
+  "cleanWordCount": 763,
+  "readingEstimateMinutes": 5,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "behavioral_related",
+  "publicCategorySlugs": [
+    "mengelola-emosi",
+    "membangun-pertemanan-sehat",
+    "mencari-pegangan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/123c3462-5939-418c-9f96-e862df054721.png",
+    "illustrations/2f71ffe8-7b08-4677-8863-b6fdaa33f8be.png",
+    "illustrations/30ca06bd-5434-4b21-8f9e-e0551098758b.png",
+    "illustrations/3304d836-867c-4f59-9592-e077ac154eff.png",
+    "illustrations/34c6a673-5d16-4230-9e4e-b5695de003fb.png",
+    "illustrations/37b60648-6809-4f20-8084-001ffdef9921.png",
+    "illustrations/4db9825f-6ba5-4794-a9a5-352126812369.png",
+    "illustrations/84371420-4431-4d80-840d-50a59bf61c75.png",
+    "illustrations/c73abf5f-ef5b-47da-9567-dc6a0e437c1d.png",
+    "illustrations/f75b4804-d640-424b-9d9d-3ddc3a1b6e32.png"
+  ],
+  "notes": [
+    "Dokumen sumber memiliki pengantar sebelum judul cerpen; lihat sourceIntroParagraphs dan source-full.md."
+  ],
+  "publicCategoryRationale": {
+    "mengelola-emosi": "menekankan pengenalan emosi dan cara meresponsnya dengan aman",
+    "membangun-pertemanan-sehat": "menekankan relasi, empati, batas, dan dukungan teman",
+    "mencari-pegangan": "menekankan penemuan pijakan diri, nilai, rutinitas, atau orang tepercaya"
+  }
+}

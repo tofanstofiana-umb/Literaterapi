@@ -1,0 +1,46 @@
+{
+  "slug": "cermin-di-bilik-andam",
+  "title": "Cermin di Bilik Andam",
+  "originCountry": "Malaysia",
+  "originalLanguage": "ms-MY",
+  "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 3/Teks-cerpen-malay-3.docx",
+  "sourceTitleParagraphIndex": 1,
+  "sourceIntroParagraphs": [
+    "Untuk remaja yang sedang risau dengan tubuh kerana jadual pemakanan."
+  ],
+  "rawWordCount": 730,
+  "cleanWordCount": 720,
+  "readingEstimateMinutes": 4,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "body_image_related",
+  "publicCategorySlugs": [
+    "mendengarkan-tubuh",
+    "menghargai-diri",
+    "menemukan-harapan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/156a6d31-5343-4b93-9241-bbe97f2169ad.png",
+    "illustrations/1e7aa66a-7de4-431b-a6c2-a953fcd127f9.png",
+    "illustrations/436d71da-1443-4b56-892d-cbe259db7984.png",
+    "illustrations/5cbf1a86-ca74-4669-ac1b-35f00aea002f.png",
+    "illustrations/6c68d632-d2a0-47fc-9df6-07d5f327a51d.png",
+    "illustrations/7bdd2c44-6c80-4adb-ac28-fcf7a1932594.png",
+    "illustrations/8cb21555-19e7-44eb-b54f-3e3f5171287f.png",
+    "illustrations/934b535c-625c-4c13-932f-ee053c892822.png"
+  ],
+  "notes": [
+    "Dokumen sumber memiliki pengantar sebelum judul cerpen; lihat sourceIntroParagraphs dan source-full.md."
+  ],
+  "publicCategoryRationale": {
+    "mendengarkan-tubuh": "menekankan relasi sehat dengan tubuh dan sinyal kebutuhan diri",
+    "menghargai-diri": "menekankan penerimaan diri dan nilai diri yang tidak bergantung pada penilaian luar",
+    "menemukan-harapan": "menekankan kemungkinan pulih, bertumbuh, atau menemukan arah baru"
+  }
+}

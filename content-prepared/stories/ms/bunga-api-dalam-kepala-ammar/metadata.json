@@ -1,0 +1,50 @@
+{
+  "slug": "bunga-api-dalam-kepala-ammar",
+  "title": "Bunga Api dalam Kepala Ammar",
+  "originCountry": "Malaysia",
+  "originalLanguage": "ms-MY",
+  "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 5/Teks-cepren-malay-5.docx",
+  "sourceTitleParagraphIndex": 1,
+  "sourceIntroParagraphs": [
+    "Untuk remaja yang sedang mengalami ADHD"
+  ],
+  "rawWordCount": 747,
+  "cleanWordCount": 741,
+  "readingEstimateMinutes": 5,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "adhd_related",
+  "publicCategorySlugs": [
+    "menemukan-cara-belajar",
+    "mengelola-emosi",
+    "menghargai-diri"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/28217467-ee2d-45b7-bb33-5e3a1d8258ba.png",
+    "illustrations/328bf84a-4e61-4588-b1da-91024a88851f.png",
+    "illustrations/49a002e3-e7cb-4ce6-b185-71085a07b761.png",
+    "illustrations/62e75d0a-2037-4ca7-9fc1-6911068bbc85.png",
+    "illustrations/7386eb27-6dc7-4b65-b14d-8e57c4482dab.png",
+    "illustrations/9ddc91bb-911a-45ed-b303-a331d848f5bf.png",
+    "illustrations/ac79acd5-fe57-4107-9b9d-93e9d80672fe.png",
+    "illustrations/baa7eb56-b08a-447b-b7e4-b9f9fd884c57.png",
+    "illustrations/d6fa8ad8-1134-49dc-8624-6b47cf8813df.png",
+    "illustrations/e6477390-7459-4979-9edd-e456d253c872.png",
+    "illustrations/f0ea2e07-8245-417c-b0e0-437ed8cfd633.png",
+    "illustrations/f2fd17be-7a6b-414a-a075-255dfe9f6b61.png"
+  ],
+  "notes": [
+    "Dokumen sumber memiliki pengantar sebelum judul cerpen; lihat sourceIntroParagraphs dan source-full.md."
+  ],
+  "publicCategoryRationale": {
+    "menemukan-cara-belajar": "menekankan strategi belajar, fokus, dan pengelolaan kebiasaan",
+    "mengelola-emosi": "menekankan pengenalan emosi dan cara meresponsnya dengan aman",
+    "menghargai-diri": "menekankan penerimaan diri dan nilai diri yang tidak bergantung pada penilaian luar"
+  }
+}

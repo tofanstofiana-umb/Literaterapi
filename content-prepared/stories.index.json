@@ -1,0 +1,327 @@
+{
+  "stories": [
+    {
+      "slug": "bintang-yang-tidak-hilang",
+      "title": "Bintang yang Tidak Hilang",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "folder": "content-prepared/stories/id/bintang-yang-tidak-hilang",
+      "cleanWordCount": 661,
+      "readingEstimateMinutes": 4,
+      "assetStatus": "mapped_best_effort",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "meminta-bantuan",
+        "menemukan-harapan",
+        "mencari-pegangan"
+      ],
+      "illustrationCount": 10
+    },
+    {
+      "slug": "cahaya-yang-selalu-ada",
+      "title": "Cahaya yang Selalu Ada",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "folder": "content-prepared/stories/id/cahaya-yang-selalu-ada",
+      "cleanWordCount": 642,
+      "readingEstimateMinutes": 4,
+      "assetStatus": "mapped_best_effort",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "menghargai-diri",
+        "mendengarkan-tubuh",
+        "menemukan-harapan"
+      ],
+      "illustrationCount": 6
+    },
+    {
+      "slug": "debu-yang-menari",
+      "title": "Debu yang Menari",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "folder": "content-prepared/stories/id/debu-yang-menari",
+      "cleanWordCount": 873,
+      "readingEstimateMinutes": 5,
+      "assetStatus": "mapped_best_effort",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "menemukan-cara-belajar",
+        "mengelola-emosi",
+        "menghargai-diri"
+      ],
+      "illustrationCount": 9
+    },
+    {
+      "slug": "layang-layang-di-atas-kerikil",
+      "title": "Layang-layang di Atas Kerikil",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "folder": "content-prepared/stories/id/layang-layang-di-atas-kerikil",
+      "cleanWordCount": 783,
+      "readingEstimateMinutes": 5,
+      "assetStatus": "mapped_best_effort",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "menemukan-cara-belajar",
+        "mengelola-emosi",
+        "membangun-pertemanan-sehat"
+      ],
+      "illustrationCount": 5
+    },
+    {
+      "slug": "pasar-malam-di-dalam-kepalaku",
+      "title": "Pasar Malam di Dalam Kepalaku",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "folder": "content-prepared/stories/id/pasar-malam-di-dalam-kepalaku",
+      "cleanWordCount": 1083,
+      "readingEstimateMinutes": 7,
+      "assetStatus": "mapped_best_effort",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "mengelola-emosi",
+        "meminta-bantuan",
+        "menemukan-ketenangan"
+      ],
+      "illustrationCount": 12
+    },
+    {
+      "slug": "satu-keping-sagu-untuk-berdua",
+      "title": "Satu Keping Sagu untuk Berdua",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "folder": "content-prepared/stories/id/satu-keping-sagu-untuk-berdua",
+      "cleanWordCount": 975,
+      "readingEstimateMinutes": 6,
+      "assetStatus": "mapped_best_effort",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "meminta-bantuan",
+        "membangun-pertemanan-sehat",
+        "berani-menghadapi-tekanan"
+      ],
+      "illustrationCount": 11
+    },
+    {
+      "slug": "hidup-di-dalam-ceritamu-sendiri",
+      "title": "Hidup di Dalam Ceritamu Sendiri",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "folder": "content-prepared/stories/id/hidup-di-dalam-ceritamu-sendiri",
+      "cleanWordCount": 866,
+      "readingEstimateMinutes": 5,
+      "assetStatus": "mapped_best_effort",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "mengelola-emosi",
+        "membangun-pertemanan-sehat",
+        "mencari-pegangan"
+      ],
+      "illustrationCount": 5
+    },
+    {
+      "slug": "warisan-tanpa-nama",
+      "title": "Warisan Tanpa Nama",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "folder": "content-prepared/stories/id/warisan-tanpa-nama",
+      "cleanWordCount": 1174,
+      "readingEstimateMinutes": 7,
+      "assetStatus": "mapped_best_effort",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "mengelola-emosi",
+        "meminta-bantuan",
+        "mencari-pegangan"
+      ],
+      "illustrationCount": 4
+    },
+    {
+      "slug": "langit-yang-belajar-hujan",
+      "title": "Langit yang Belajar Hujan",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "folder": "content-prepared/stories/id/langit-yang-belajar-hujan",
+      "cleanWordCount": 1105,
+      "readingEstimateMinutes": 7,
+      "assetStatus": "mapped_best_effort",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "menemukan-harapan",
+        "meminta-bantuan",
+        "menemukan-ketenangan"
+      ],
+      "illustrationCount": 12
+    },
+    {
+      "slug": "nyala-yang-tidak-pernah-berkurang",
+      "title": "Nyala yang Tidak Pernah Berkurang",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "folder": "content-prepared/stories/id/nyala-yang-tidak-pernah-berkurang",
+      "cleanWordCount": 1098,
+      "readingEstimateMinutes": 7,
+      "assetStatus": "mapped_best_effort",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "menemukan-harapan",
+        "menghargai-diri",
+        "mencari-pegangan"
+      ],
+      "illustrationCount": 5
+    },
+    {
+      "slug": "suara-yang-hanya-aku-dengar",
+      "title": "Suara yang Hanya Aku Dengar",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "folder": "content-prepared/stories/id/suara-yang-hanya-aku-dengar",
+      "cleanWordCount": 659,
+      "readingEstimateMinutes": 4,
+      "assetStatus": "mapped_best_effort",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "meminta-bantuan",
+        "membangun-pertemanan-sehat",
+        "mencari-pegangan"
+      ],
+      "illustrationCount": 4
+    },
+    {
+      "slug": "tubuhku-bukan-musuhku",
+      "title": "Tubuhku Bukan Musuhku",
+      "originCountry": "Indonesia",
+      "originalLanguage": "id-ID",
+      "folder": "content-prepared/stories/id/tubuhku-bukan-musuhku",
+      "cleanWordCount": 784,
+      "readingEstimateMinutes": 5,
+      "assetStatus": "mapped_best_effort",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "mendengarkan-tubuh",
+        "menghargai-diri",
+        "meminta-bantuan"
+      ],
+      "illustrationCount": 10
+    },
+    {
+      "slug": "suara-di-balai-muafakat",
+      "title": "Suara di Balai Muafakat",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "folder": "content-prepared/stories/ms/suara-di-balai-muafakat",
+      "cleanWordCount": 787,
+      "readingEstimateMinutes": 5,
+      "assetStatus": "mapped",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "berani-menghadapi-tekanan",
+        "meminta-bantuan",
+        "menemukan-ketenangan"
+      ],
+      "illustrationCount": 5
+    },
+    {
+      "slug": "kabus-di-kaki-bukit",
+      "title": "Kabus di Kaki Bukit",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "folder": "content-prepared/stories/ms/kabus-di-kaki-bukit",
+      "cleanWordCount": 699,
+      "readingEstimateMinutes": 4,
+      "assetStatus": "mapped",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "menemukan-harapan",
+        "meminta-bantuan",
+        "mencari-pegangan"
+      ],
+      "illustrationCount": 6
+    },
+    {
+      "slug": "cermin-di-bilik-andam",
+      "title": "Cermin di Bilik Andam",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "folder": "content-prepared/stories/ms/cermin-di-bilik-andam",
+      "cleanWordCount": 720,
+      "readingEstimateMinutes": 4,
+      "assetStatus": "mapped",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "mendengarkan-tubuh",
+        "menghargai-diri",
+        "menemukan-harapan"
+      ],
+      "illustrationCount": 8
+    },
+    {
+      "slug": "pintu-rumah-panjang",
+      "title": "Pintu Rumah Panjang",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "folder": "content-prepared/stories/ms/pintu-rumah-panjang",
+      "cleanWordCount": 763,
+      "readingEstimateMinutes": 5,
+      "assetStatus": "mapped",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "mengelola-emosi",
+        "membangun-pertemanan-sehat",
+        "mencari-pegangan"
+      ],
+      "illustrationCount": 10
+    },
+    {
+      "slug": "bunga-api-dalam-kepala-ammar",
+      "title": "Bunga Api dalam Kepala Ammar",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "folder": "content-prepared/stories/ms/bunga-api-dalam-kepala-ammar",
+      "cleanWordCount": 741,
+      "readingEstimateMinutes": 5,
+      "assetStatus": "mapped",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "menemukan-cara-belajar",
+        "mengelola-emosi",
+        "menghargai-diri"
+      ],
+      "illustrationCount": 12
+    },
+    {
+      "slug": "ruang-di-bawah-bumbung-rumah-panjang",
+      "title": "Ruang di Bawah Bumbung Rumah Panjang",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "folder": "content-prepared/stories/ms/ruang-di-bawah-bumbung-rumah-panjang",
+      "cleanWordCount": 715,
+      "readingEstimateMinutes": 4,
+      "assetStatus": "mapped",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "meminta-bantuan",
+        "menemukan-harapan",
+        "mencari-pegangan"
+      ],
+      "illustrationCount": 12
+    },
+    {
+      "slug": "jalan-pulang-ke-rumah-panjang",
+      "title": "Jalan Pulang ke Rumah Panjang",
+      "originCountry": "Malaysia",
+      "originalLanguage": "ms-MY",
+      "folder": "content-prepared/stories/ms/jalan-pulang-ke-rumah-panjang",
+      "cleanWordCount": 761,
+      "readingEstimateMinutes": 5,
+      "assetStatus": "mapped",
+      "coverImage": "cover.png",
+      "publicCategorySlugs": [
+        "mencari-pegangan",
+        "meminta-bantuan",
+        "menemukan-harapan"
+      ],
+      "illustrationCount": 9
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "suara-yang-hanya-aku-dengar",
+  "title": "Suara yang Hanya Aku Dengar",
+  "originCountry": "Indonesia",
+  "originalLanguage": "id-ID",
+  "sourceDocx": "content-raw/Cerpen Indonesia/Suara yang Hanya Aku Dengar.docx",
+  "sourceTitleParagraphIndex": 0,
+  "sourceIntroParagraphs": [],
+  "rawWordCount": 659,
+  "cleanWordCount": 659,
+  "readingEstimateMinutes": 4,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "psychosis_related",
+  "publicCategorySlugs": [
+    "meminta-bantuan",
+    "membangun-pertemanan-sehat",
+    "mencari-pegangan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped_best_effort",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/scene-030-542342eb-3d3c-4d0f-a8e4-ebf0c10bd802 (1).png",
+    "illustrations/scene-100-c701aa74-8229-47a4-b2da-c43a0da9e28c.png",
+    "illustrations/scene-108-da9c8b21-2d23-4fe1-89ff-9f7135c448c3.png",
+    "illustrations/scene-116-ebdf653d-7baf-4801-95f6-08803f5f1a13.png"
+  ],
+  "notes": [
+    "Gambar Indonesia belum dipetakan otomatis; lihat content-raw/contact-sheets.",
+    "Sampul Indonesia dipetakan dari contact sheet berdasarkan judul yang terlihat; ilustrasi adegan belum dipaksa karena file mentah tidak membawa penanda cerita.",
+    "Ilustrasi adegan Indonesia dipetakan secara best-effort dari contact sheet; tinjau ulang bila digunakan sebagai bukti visual final."
+  ],
+  "publicCategoryRationale": {
+    "meminta-bantuan": "mendorong siswa mengenali bahwa dukungan orang lain boleh dicari",
+    "membangun-pertemanan-sehat": "menekankan relasi, empati, batas, dan dukungan teman",
+    "mencari-pegangan": "menekankan penemuan pijakan diri, nilai, rutinitas, atau orang tepercaya"
+  },
+  "coverSource": "content-raw/Cerpen Indonesia/286ca0ec-aec5-4f9d-8dbe-17c868c934a3.png",
+  "imageMappingConfidence": "high_for_cover_mixed_for_scene_illustrations",
+  "illustrationMapping": [
+    {
+      "contactSheetIndex": 30,
+      "source": "content-raw/Cerpen Indonesia/542342eb-3d3c-4d0f-a8e4-ebf0c10bd802 (1).png",
+      "file": "illustrations/scene-030-542342eb-3d3c-4d0f-a8e4-ebf0c10bd802 (1).png",
+      "confidence": "medium",
+      "note": "suara/visual mengganggu di kamar"
+    },
+    {
+      "contactSheetIndex": 100,
+      "source": "content-raw/Cerpen Indonesia/c701aa74-8229-47a4-b2da-c43a0da9e28c.png",
+      "file": "illustrations/scene-100-c701aa74-8229-47a4-b2da-c43a0da9e28c.png",
+      "confidence": "high",
+      "note": "Dimas dan Gilang menggambar"
+    },
+    {
+      "contactSheetIndex": 108,
+      "source": "content-raw/Cerpen Indonesia/da9c8b21-2d23-4fe1-89ff-9f7135c448c3.png",
+      "file": "illustrations/scene-108-da9c8b21-2d23-4fe1-89ff-9f7135c448c3.png",
+      "confidence": "medium",
+      "note": "dua sahabat di kelas"
+    },
+    {
+      "contactSheetIndex": 116,
+      "source": "content-raw/Cerpen Indonesia/ebdf653d-7baf-4801-95f6-08803f5f1a13.png",
+      "file": "illustrations/scene-116-ebdf653d-7baf-4801-95f6-08803f5f1a13.png",
+      "confidence": "medium",
+      "note": "dua sahabat duduk dan bicara"
+    }
+  ]
+}

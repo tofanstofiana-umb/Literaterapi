@@ -1,0 +1,82 @@
+{
+  "slug": "hidup-di-dalam-ceritamu-sendiri",
+  "title": "Hidup di Dalam Ceritamu Sendiri",
+  "originCountry": "Indonesia",
+  "originalLanguage": "id-ID",
+  "sourceDocx": "content-raw/Cerpen Indonesia/SAKTI_Behavioral_Cerpen 5_Hidup di Dalam Ceritamu Sendiri.docx",
+  "sourceTitleParagraphIndex": 0,
+  "sourceIntroParagraphs": [],
+  "rawWordCount": 866,
+  "cleanWordCount": 866,
+  "readingEstimateMinutes": 5,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "behavioral_related",
+  "publicCategorySlugs": [
+    "mengelola-emosi",
+    "membangun-pertemanan-sehat",
+    "mencari-pegangan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped_best_effort",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/scene-009-1fd92f5b-78da-4faa-9c1c-7255b006f744.png",
+    "illustrations/scene-034-578736cc-a614-4fa1-9aa5-289b06dd6c77.png",
+    "illustrations/scene-061-807304d7-2399-4d17-9f56-4670c396f10a.png",
+    "illustrations/scene-084-a7dc6f5d-60de-44ee-94b0-cceac73b351a.png",
+    "illustrations/scene-130-rendra-menoleh.png"
+  ],
+  "notes": [
+    "Gambar Indonesia belum dipetakan otomatis; lihat content-raw/contact-sheets.",
+    "Sampul Indonesia dipetakan dari contact sheet berdasarkan judul yang terlihat; ilustrasi adegan belum dipaksa karena file mentah tidak membawa penanda cerita.",
+    "Ilustrasi adegan Indonesia dipetakan secara best-effort dari contact sheet; tinjau ulang bila digunakan sebagai bukti visual final."
+  ],
+  "publicCategoryRationale": {
+    "mengelola-emosi": "menekankan pengenalan emosi dan cara meresponsnya dengan aman",
+    "membangun-pertemanan-sehat": "menekankan relasi, empati, batas, dan dukungan teman",
+    "mencari-pegangan": "menekankan penemuan pijakan diri, nilai, rutinitas, atau orang tepercaya"
+  },
+  "coverSource": "content-raw/Cerpen Indonesia/739aa3e9-ef1d-4bbd-81ef-3d3e5cc84c84.png",
+  "imageMappingConfidence": "high_for_cover_mixed_for_scene_illustrations",
+  "illustrationMapping": [
+    {
+      "contactSheetIndex": 9,
+      "source": "content-raw/Cerpen Indonesia/1fd92f5b-78da-4faa-9c1c-7255b006f744.png",
+      "file": "illustrations/scene-009-1fd92f5b-78da-4faa-9c1c-7255b006f744.png",
+      "confidence": "high",
+      "note": "konflik di kelas"
+    },
+    {
+      "contactSheetIndex": 34,
+      "source": "content-raw/Cerpen Indonesia/578736cc-a614-4fa1-9aa5-289b06dd6c77.png",
+      "file": "illustrations/scene-034-578736cc-a614-4fa1-9aa5-289b06dd6c77.png",
+      "confidence": "low",
+      "note": "refleksi diri di depan cermin"
+    },
+    {
+      "contactSheetIndex": 61,
+      "source": "content-raw/Cerpen Indonesia/807304d7-2399-4d17-9f56-4670c396f10a.png",
+      "file": "illustrations/scene-061-807304d7-2399-4d17-9f56-4670c396f10a.png",
+      "confidence": "medium",
+      "note": "konsekuensi konflik di sekolah"
+    },
+    {
+      "contactSheetIndex": 84,
+      "source": "content-raw/Cerpen Indonesia/a7dc6f5d-60de-44ee-94b0-cceac73b351a.png",
+      "file": "illustrations/scene-084-a7dc6f5d-60de-44ee-94b0-cceac73b351a.png",
+      "confidence": "high",
+      "note": "guru meminta siswa keluar kelas"
+    },
+    {
+      "contactSheetIndex": null,
+      "source": "generated (AI image generator, disediakan pengguna)",
+      "file": "illustrations/scene-130-rendra-menoleh.png",
+      "confidence": "high",
+      "note": "Rendra menoleh sedikit sebelum berjalan masuk, ditempatkan manual setelah kalimat \"Tapi di ujung langkahnya, dia sempat menoleh. Sedikit saja.\""
+    }
+  ]
+}

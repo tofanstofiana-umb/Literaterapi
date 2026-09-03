@@ -1,0 +1,1244 @@
+{
+  "app": {
+    "name": "LITERATERAPI-SAKTI",
+    "tagline": "Baca Lebih Mendalam, Kenali Diri, Fahami Sesama"
+  },
+  "nav": {
+    "home": "Laman Utama",
+    "library": "Pustaka",
+    "journey": "Perjalanan",
+    "collection": "Koleksi",
+    "profile": "Profil",
+    "about": "Tentang",
+    "guide": "Panduan",
+    "privacy": "Privasi",
+    "login": "Log Masuk",
+    "register": "Daftar",
+    "logout": "Log Keluar",
+    "myDashboard": "Papan Pemuka Saya",
+    "facilitatorDashboard": "Papan Pemuka Fasilitator",
+    "adminDashboard": "Papan Pemuka Admin",
+    "researchDashboard": "Papan Pemuka Penyelidikan"
+  },
+  "publicHome": {
+    "heroTitle": "RUANG MEMBACA REFLEKTIF UNTUK MENGENALI DIRI DAN SESAMA",
+    "heroSubtitle": "19 cerpen, lima langkah S-A-K-T-I, dua budaya: Indonesia dan Malaysia.",
+    "ctaStart": "Mula perjalanan",
+    "ctaLibrary": "Lihat pustaka cerita",
+    "stepEyebrow": "Lima langkah membaca yang ringan",
+    "steps": {
+      "sadar": "Mengenali suasana tema cerita dan menyedari perasaan awal terhadap tema cerita.",
+      "aktif": "Melibatkan diri dengan cerita dan watak secara langsung.",
+      "kritis": "Meneliti dan merefleksi makna, emosi, serta nilai budaya yang berkait dengan pengalaman diri.",
+      "terbuka": "Menyedari bahawa membuat cara dan keputusan yang berbeza itu boleh dilakukan.",
+      "imersif": "Membuat satu gagasan baharu untuk dimasukkan ke dalam isi cerita."
+    },
+    "libraryEyebrow": "Mula dari pustaka",
+    "libraryTitle": "Cerpen reflektif sedia dibaca",
+    "libraryAll": "Lihat semua cerita",
+    "safetyNoteTitle": "Sebelum bermula, penting untuk kamu tahu",
+    "safetyNoteBody": "LITERATERAPI-SAKTI adalah ruang membaca reflektif untuk menyokong literasi dan kesedaran emosi. Aplikasi ini BUKAN perkhidmatan diagnosis, terapi klinikal, kaunseling, saringan kesihatan mental, atau pengganti ahli psikologi, pakar psikiatri, kaunselor, guru, mahupun profesional kesihatan lain."
+  },
+  "footer": {
+    "description": "Ruang membaca reflektif yang membantu murid mengenali cerita, perasaan, dan langkah kecil untuk bertumbuh.",
+    "navLabel": "Pautan footer",
+    "explore": "Jelajah"
+  },
+  "theme": {
+    "light": "Terang",
+    "dark": "Gelap",
+    "useLight": "Gunakan mod terang",
+    "useDark": "Gunakan mod gelap"
+  },
+  "libraryPage": {
+    "eyebrow": "Pustaka Cerita",
+    "title": "Pilih cerpen untuk dibaca secara reflektif",
+    "body": "Cerita dikelompokkan dengan label murid yang menyokong dan bukan klinikal. Label dalaman tidak dipaparkan kepada pembaca.",
+    "filterLabel": "Tapis pustaka",
+    "countryLabel": "Negara asal",
+    "categoryLabel": "Kategori murid",
+    "all": "Semua",
+    "allCategories": "Semua kategori",
+    "availableCount": "{count} cerpen tersedia",
+    "reset": "Tetapkan semula tapisan"
+  },
+  "helpPage": {
+    "eyebrow": "Bantuan",
+    "title": "Ruang bantuan untuk membaca dengan selamat",
+    "body": "Halaman ini membantu murid, pendamping, dan ibu bapa/penjaga memahami apa yang boleh dilakukan apabila pengalaman membaca terasa mengelirukan, tidak selesa, atau memerlukan sokongan orang dewasa.",
+    "cards": {
+      "student": {
+        "title": "Untuk murid",
+        "body": "Kamu boleh berhenti membaca pada bila-bila masa, memilih cerita lain, atau menulis refleksi dengan kata-kata sederhana. Jika ada bahagian yang terasa berat, ceritakan kepada guru, ibu bapa/penjaga, atau pendamping yang kamu percaya."
+      },
+      "facilitator": {
+        "title": "Untuk pendamping",
+        "body": "Gunakan kemajuan dan refleksi sebagai pembuka sapaan, bukan penilaian. Tanyakan dengan lembut, beri ruang untuk diam, dan catat susulan yang menyokong."
+      },
+      "parent": {
+        "title": "Untuk ibu bapa/penjaga",
+        "body": "Tanyakan pengalaman membaca anak tanpa memaksa mereka membuka cerita peribadi. Sokong anak untuk meminta bantuan orang dewasa bila perlu."
+      }
+    },
+    "safetyTitle": "Batas selamat",
+    "safety": {
+      "pause": {
+        "title": "Berhenti sejenak.",
+        "body": "Jika tubuh terasa tegang, ambil jeda, tarik nafas perlahan, atau tutup halaman."
+      },
+      "trustedAdult": {
+        "title": "Libatkan orang dewasa yang dipercayai.",
+        "body": "Aplikasi ini menyokong literasi reflektif, bukan tempat menyimpan keadaan kecemasan seorang diri."
+      },
+      "emergency": {
+        "title": "Dalam keadaan kecemasan.",
+        "body": "Segera hubungi orang dewasa terdekat, sekolah, layanan kesihatan, atau layanan keselamatan setempat."
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Log Masuk",
+      "body": "Log masuk dengan e-mel dan kata laluan akaun yang sudah kamu daftarkan.",
+      "noAccount": "Belum mempunyai akaun?",
+      "registerLink": "Daftar di sini"
+    },
+    "register": {
+      "eyebrow": "Pendaftaran Murid",
+      "title": "Daftar",
+      "body": "Buat akaun murid untuk membaca cerpen, menyimpan kemajuan, dan mengisi refleksi S-A-K-T-I. Akaun fasilitator dibuat oleh admin sekolah supaya akses pendamping kekal selamat.",
+      "hasAccount": "Sudah mempunyai akaun?",
+      "loginLink": "Log masuk di sini",
+      "submit": "Daftar sebagai murid"
+    },
+    "form": {
+      "displayName": "Nama panggilan",
+      "password": "Kata laluan",
+      "passwordHint": "Minimum 8 aksara.",
+      "classCode": "Kod kelas",
+      "optional": "Pilihan",
+      "classCodeHint": "Isi jika guru/pendamping memberikan kod kelas.",
+      "supabaseMissing": "Supabase belum dikonfigurasi di pelayan ini.",
+      "invalidLogin": "E-mel/kata laluan belum sepadan, atau e-mel pendaftaran belum disahkan.",
+      "emailRequired": "Isi e-mel terlebih dahulu untuk menghantar semula pengesahan.",
+      "confirmationResent": "E-mel pengesahan sudah dihantar semula. Sila semak peti masuk atau spam.",
+      "confirmationResendFailed": "E-mel pengesahan belum dapat dihantar semula. Cuba lagi sebentar.",
+      "sending": "Menghantar...",
+      "resendConfirmation": "Hantar semula e-mel pengesahan",
+      "accountCreationFailed": "Akaun belum dapat dibuat. Periksa data pendaftaran atau cuba lagi sebentar.",
+      "emailAlreadyRegistered": "E-mel ini sudah terdaftar. Sila log masuk atau gunakan e-mel lain.",
+      "accountCreatedReady": "Akaun berjaya dibuat dan sedia digunakan.",
+      "accountCreatedLoginIssue": "Akaun berjaya dibuat, tetapi belum dapat log masuk otomatis. Sila cuba log masuk dari halaman Masuk.",
+      "accountCreatedCheckEmail": "Akaun berjaya dibuat. Sila semak e-mel untuk pengesahan, kemudian log masuk.",
+      "accountCreatedWithClassIssue": "Akaun berjaya dibuat, tetapi {message}"
+    }
+  },
+  "aboutPage": {
+    "eyebrow": "Tentang Program",
+    "title": "Ruang membaca reflektif untuk mengenali diri dan sesama",
+    "body": "LITERATERAPI-SAKTI ialah aplikasi membaca cerpen untuk murid usia 12-14 tahun. Cerita daripada konteks Indonesia dan Malaysia digunakan sebagai bahan literasi, refleksi diri, dan perbualan selamat bersama pendamping.",
+    "register": "Daftar",
+    "guide": "Lihat panduan",
+    "avatarAlt": "Avatar neutral LITERATERAPI-SAKTI",
+    "principles": {
+      "reflective": {
+        "title": "Literasi reflektif",
+        "body": "Murid membaca cerpen, mengenali perasaan watak, kemudian menulis catatan ringkas tentang perkara yang mereka fahami."
+      },
+      "nonClinical": {
+        "title": "Bukan klinikal",
+        "body": "Kategori cerita menggunakan bahasa awam yang menyokong, bukan label diagnosis dan bukan alat saringan kesihatan mental."
+      },
+      "safeCompanion": {
+        "title": "Pendampingan selamat",
+        "body": "Guru, fasilitator, atau kaunselor sekolah dapat melihat isyarat kemajuan dan refleksi untuk memberi sapaan yang wajar."
+      }
+    },
+    "flowEyebrow": "Alur S-A-K-T-I",
+    "flowBody": "Alur ini membantu murid membaca perlahan, memberi nama pada pengalaman watak, dan menulis refleksi pendek tanpa merasa dinilai.",
+    "boundaryTitle": "Batas penting program",
+    "boundaryBody": "Aplikasi ini bukan perkhidmatan diagnosis, terapi klinikal, kaunseling kecemasan, atau pengganti ahli psikologi, pakar psikiatri, kaunselor, guru, mahupun profesional kesihatan. Jika murid berada dalam keadaan bahaya, krisis, atau memerlukan bantuan segera, sekolah dan keluarga perlu menghubungi perkhidmatan profesional atau kecemasan setempat."
+  },
+  "studentDashboard": {
+    "eyebrow": "Papan Pemuka Murid",
+    "welcome": "Selamat datang, {name}",
+    "intro": "Mulakan dengan memilih avatar, kemudian pilih cerpen berdasarkan negara dan perasaan yang paling dekat dengan keadaanmu hari ini. Kemajuan di sini menunjukkan bahagian skrin yang diteroka, bukan ukuran kefahaman atau penilaian diri.",
+    "steps": {
+      "chooseSelf": {
+        "title": "1. Pilih diri",
+        "body": "Tetapkan avatar dan warna yang selesa."
+      },
+      "chooseStory": {
+        "title": "2. Pilih cerita",
+        "body": "Tapis mengikut negara atau perasaan."
+      },
+      "writeReflection": {
+        "title": "3. Tulis refleksi",
+        "body": "Simpan catatan S-A-K-T-I yang ringkas."
+      }
+    },
+    "avatarTheme": "Avatar & Tema",
+    "avatars": {
+      "laki": {
+        "label": "Avatar Lelaki",
+        "short": "Lelaki",
+        "detail": "Tema biru tenang untuk meneroka cerita dengan fokus."
+      },
+      "netral": {
+        "label": "Avatar Neutral",
+        "short": "Neutral",
+        "detail": "Tema hangat dan lembut untuk membaca dengan selesa."
+      },
+      "perempuan": {
+        "label": "Avatar Perempuan",
+        "short": "Perempuan",
+        "detail": "Tema senja yang mesra untuk menulis refleksi perlahan-lahan."
+      }
+    },
+    "saveAvatar": "Simpan avatar",
+    "stats": {
+      "todayXp": "XP Hari Ini",
+      "todayXpDetail": "XP daripada misi yang sudah selesai hari ini.",
+      "streak": "Rentetan",
+      "days": "{count} hari",
+      "streakDetail": "Hari berturut-turut dengan aktiviti membaca atau refleksi.",
+      "exploredStories": "Cerita Diteroka",
+      "exploredStoriesDetail": "Cerpen yang sudah pernah dibuka semasa akaun ini aktif.",
+      "reflections": "Refleksi",
+      "reflectionsDetail": "Catatan S-A-K-T-I yang sudah tersimpan dalam akaun murid."
+    },
+    "continueSection": "Teruskan Membaca",
+    "openLibrary": "Buka pustaka",
+    "noProgress": "Belum ada kemajuan tersimpan. Pilih salah satu cerpen di bawah untuk bermula.",
+    "latest": "Terakhir",
+    "notSaved": "Belum tersimpan",
+    "screenProgress": "Bahagian diteroka",
+    "continueReading": "Teruskan baca",
+    "chooseStory": "Pilih cerita",
+    "minutes": "{count} minit",
+    "all": "Semua",
+    "storyPicker": {
+      "eyebrow": "Pilih Cerita",
+      "title": "Koleksi Cerpen",
+      "body": "Tapis berdasarkan negara asal cerita dan perasaan yang sedang ingin kamu temani.",
+      "count": "{filtered}/{total} cerpen",
+      "country": "Negara",
+      "feeling": "Perasaan / keperluan"
+    },
+    "gamification": {
+      "eyebrow": "Arena S-A-K-T-I",
+      "title": "Level, XP, dan Hadiah",
+      "currentLevel": "Level semasa",
+      "points": "{count} poin",
+      "pointsToNext": "{count} poin menuju level seterusnya",
+      "levelProgress": "{progress}% perjalanan menuju level seterusnya"
+    },
+    "mystery": {
+      "unlocked": "Hadiah terbuka: {label}",
+      "secretKey": {
+        "label": "Kunci Cerita Rahsia",
+        "detail": "Hadiah level lanjutan terbuka. Teruskan perjalanan S-A-K-T-I."
+      },
+      "storyBox": {
+        "label": "Kotak Cerita",
+        "detail": "Hadiah awal terbuka. Kumpulkan XP lagi untuk hadiah seterusnya."
+      },
+      "mysteryBox": {
+        "label": "Kotak Misteri",
+        "detail": "Kumpulkan 100 XP untuk membuka hadiah pertama."
+      }
+    },
+    "dailyMissions": "Misi Harian",
+    "dailyMissionsTitle": "Selesaikan misi, kumpulkan XP",
+    "missionComplete": "OK",
+    "missions": {
+      "readToday": {
+        "label": "Jelajah Hari Ini",
+        "detail": "Buka atau teruskan satu cerpen."
+      },
+      "saktiNote": {
+        "label": "Catatan S-A-K-T-I",
+        "detail": "Tulis satu refleksi pendek hari ini."
+      },
+      "deepExplorer": {
+        "label": "Penjelajah Tekun",
+        "detail": "Capai 60% bahagian diteroka pada satu cerita."
+      },
+      "companionTeam": {
+        "label": "Pasukan Pendamping",
+        "detail": "Hubungkan akaun dengan kod kelas."
+      }
+    },
+    "leaderboard": {
+      "eyebrow": "Kedudukan",
+      "title": "Papan Semangat Kelas",
+      "body": "Dibuat tanpa nama supaya tetap menyeronokkan tanpa membuka identiti rakan.",
+      "empty": "Papan semangat kelas muncul selepas akaun terhubung ke kelas dan ada kemajuan membaca.",
+      "you": "Kamu",
+      "friend": "Rakan {rank}",
+      "anonymous": "Papan kelas tanpa nama"
+    },
+    "badgesTitle": "Lencana",
+    "badgeEarned": "Tercapai: ",
+    "badgePending": "Belum: ",
+    "badges": {
+      "firstStep": {
+        "label": "Langkah Pertama",
+        "detail": "Mula meneroka satu cerpen."
+      },
+      "reflectionWriter": {
+        "label": "Penulis Refleksi",
+        "detail": "Menyimpan tiga catatan S-A-K-T-I."
+      },
+      "deepExplorer": {
+        "label": "Penjelajah Tekun",
+        "detail": "Purata kemajuan skrin mencapai 60%."
+      }
+    },
+    "companion": {
+      "eyebrow": "Pendamping",
+      "title": "Hubungkan Fasilitator",
+      "body": "Masukkan kod kelas daripada guru atau pendamping supaya mereka boleh melihat kemajuan dan memberi catatan pendampingan.",
+      "placeholder": "Kod kelas",
+      "submit": "Hubungkan"
+    },
+    "latestReflections": "Refleksi Terbaru",
+    "noReflections": "Belum ada refleksi tersimpan. Catatan pendek akan muncul selepas kamu menulis di halaman baca."
+  },
+  "breathing": {
+    "eyebrow": "Persediaan Membaca",
+    "title": "Tarik nafas sebentar",
+    "body": "Sebelum membaca <strong>{title}</strong>, ikuti tiga pusingan nafas perlahan. Latihan ini hanya untuk membantu tubuh bersedia dan bukan pengganti bantuan guru, kaunselor, ahli psikologi, atau profesional kesihatan.",
+    "safety": "Duduk dengan selesa. Bernafaslah seperti biasa jika arahan terasa tidak sesuai. Berhenti atau langkau latihan jika terasa pening, sesak, atau tidak selesa.",
+    "pauseAria": "Jeda latihan nafas",
+    "startAria": "Mulakan latihan nafas",
+    "readyShort": "Siap",
+    "clickStart": "Klik mula",
+    "readyTitle": "Tubuh sedia membaca",
+    "startTitle": "Mula dengan nafas perlahan",
+    "readyBody": "Kamu boleh masuk ke cerita sekarang.",
+    "cycleRunning": "Pusingan {cycle}/{total} - {seconds} saat berbaki",
+    "cycleComplete": "Pusingan {cycle}/{total} - selesai",
+    "sound": "Muzik lembut",
+    "on": "Aktif",
+    "off": "Mati",
+    "repeat": "Ulangi",
+    "skip": "Langkau jika tidak selesa",
+    "startReading": "Mula membaca",
+    "phases": {
+      "inhale": {
+        "label": "Tarik nafas",
+        "helper": "Tarik perlahan melalui hidung jika selesa."
+      },
+      "pause": {
+        "label": "Jeda lembut",
+        "helper": "Tidak perlu menahan kuat. Biarkan tubuh tetap selesa."
+      },
+      "exhale": {
+        "label": "Hembuskan",
+        "helper": "Hembuskan nafas dengan lebih perlahan dan panjang."
+      },
+      "rest": {
+        "label": "Rehat",
+        "helper": "Rasakan tubuh sebentar sebelum pusingan berikutnya."
+      }
+    }
+  },
+  "roleWorkspace": {
+    "integrationEyebrow": "Integrasi Role",
+    "integrationTitle": "Terhubung dengan ruang kerja lain",
+    "safeBoundary": "Batas kerja selamat"
+  },
+  "storyCard": {
+    "coverAlt": "Sampul cerpen {title}",
+    "minutes": "{count} minit",
+    "viewStory": "Lihat cerita"
+  },
+  "storyDetail": {
+    "backToLibrary": "Kembali ke pustaka",
+    "coverAlt": "Sampul cerpen {title}",
+    "readingMinutes": "{count} minit bacaan",
+    "storyLanguage": "Bahasa cerita",
+    "indonesian": "Indonesia",
+    "malay": "Melayu",
+    "storyLength": "Panjang cerita",
+    "wordCount": "{count} patah perkataan",
+    "safetyNote": "Cerpen ini digunakan sebagai ruang membaca reflektif. Label yang dipaparkan di sini bukan diagnosis dan tidak menggantikan pendampingan guru, kaunselor, ahli psikologi, atau profesional kesihatan.",
+    "reportLabel": "Laporkan bahagian yang terasa tidak selesa",
+    "reportPlaceholder": "Tulis bahagian teks, gambar, atau kategori yang perlu ditinjau...",
+    "sendReport": "Hantar laporan tinjauan",
+    "chooseAnother": "Pilih cerita lain",
+    "previewTitle": "Cuplikan suasana cerita"
+  },
+  "areaLabels": {
+    "student": "Area Murid",
+    "admin": "Area Admin",
+    "facilitator": "Area Fasilitator",
+    "research": "Area Penyelidikan"
+  },
+  "reviewMeta": {
+    "roles": {
+      "siswa": "Murid",
+      "student": "Murid",
+      "fasilitator": "Fasilitator",
+      "facilitator": "Fasilitator",
+      "konselor": "Kaunselor/Pendamping Psikologis",
+      "counselor": "Kaunselor",
+      "moderator": "Moderator",
+      "editor_konten": "Editor Kandungan",
+      "editor": "Editor Kandungan",
+      "ahli": "Ahli",
+      "expert": "Ahli",
+      "peneliti": "Peneliti",
+      "researcher": "Peneliti",
+      "admin": "Administrator"
+    },
+    "noteTypes": {
+      "editorial": "Catatan editorial",
+      "moderation": "Catatan moderasi",
+      "expert_review": "Tinjauan ahli",
+      "safety": "Laporan keselamatan",
+      "follow_up": "Susulan pendamping",
+      "counselor_follow_up": "Susulan kaunselor"
+    },
+    "noteStatuses": {
+      "open": "Terbuka",
+      "in_review": "Sedang ditinjau",
+      "resolved": "Selesai"
+    },
+    "companionStatuses": {
+      "open": "Terbuka",
+      "done": "Selesai",
+      "archived": "Diarkibkan"
+    },
+    "storyStatuses": {
+      "aman": "Selamat",
+      "perlu_revisi_gambar": "Perlu revisi gambar",
+      "perlu_tinjauan_ahli": "Perlu tinjauan ahli",
+      "selesai": "Selesai"
+    },
+    "expertRecommendations": {
+      "layak": "Ahli: sesuai",
+      "perlu_revisi": "Ahli: perlu semak semula",
+      "tidak_cocok": "Ahli: tidak sesuai"
+    }
+  },
+  "guidePage": {
+    "eyebrow": "Panduan Sekolah / Ibu Bapa",
+    "title": "Cara mendampingi murid menggunakan LITERATERAPI-SAKTI",
+    "body": "Panduan ini membantu sekolah, guru, fasilitator, dan ibu bapa/penjaga memahami alur penggunaan aplikasi secara selamat, menyokong, dan tidak menghakimi.",
+    "startRegister": "Mula daftar",
+    "aboutProgram": "Tentang program",
+    "avatarAlt": {
+      "male": "Avatar lelaki",
+      "neutral": "Avatar neutral",
+      "female": "Avatar perempuan"
+    },
+    "schoolFlowTitle": "Alur untuk sekolah dan pendamping",
+    "schoolSteps": {
+      "prepare": {
+        "title": "1. Sediakan pendamping",
+        "body": "Sekolah menunjuk guru, guru kelas, fasilitator literasi, atau kaunselor yang akan memantau kelas."
+      },
+      "createClass": {
+        "title": "2. Buat kelas dan kod",
+        "body": "Pendamping membuat kelas, kemudian berkongsi kod kelas kepada murid yang akan menyertai."
+      },
+      "read": {
+        "title": "3. Dampingi membaca",
+        "body": "Murid memilih avatar, memilih cerpen, melakukan persediaan nafas ringkas, membaca, kemudian menulis refleksi."
+      },
+      "followUp": {
+        "title": "4. Susulan dengan wajar",
+        "body": "Pendamping membaca isyarat kemajuan dan refleksi untuk memberi sapaan, bukan untuk memberi label kepada murid."
+      }
+    },
+    "parentEyebrow": "Untuk Ibu Bapa / Penjaga",
+    "parentTitle": "Dampingi tanpa menyoal siasat",
+    "parentGuidance": {
+      "askStory": "Tanyakan cerita apa yang dipilih anak, bukan memaksa anak menceritakan hal peribadi.",
+      "supportWriting": "Sokong anak menulis refleksi ringkas dengan bahasa mereka sendiri.",
+      "trustedAdult": "Ingatkan bahawa meminta bantuan kepada orang dewasa yang dipercayai ialah pilihan yang boleh dilakukan.",
+      "professionalHelp": "Hubungi sekolah atau profesional jika anak menunjukkan tanda bahaya atau memerlukan bantuan segera."
+    },
+    "safetyEyebrow": "Peraturan Selamat",
+    "safetyTitle": "Yang tidak boleh dilakukan",
+    "safetyRules": {
+      "noDiagnosis": "Jangan gunakan aplikasi sebagai alat diagnosis.",
+      "noPunishment": "Jangan memberi hukuman kerana kemajuan membaca rendah.",
+      "noForcedSharing": "Jangan memaksa murid membuka refleksi peribadi di depan kelas.",
+      "dataPurpose": "Gunakan data hanya untuk pendampingan belajar dan sokongan selamat."
+    },
+    "goalsTitle": "Tujuan yang diharapkan",
+    "goalsBody": "Murid diharapkan lebih selesa membaca, lebih mampu memberi nama pada pengalaman watak, lebih terbiasa menulis refleksi ringkas, dan lebih tahu bila perlu meminta bantuan kepada orang dewasa yang dipercayai."
+  },
+  "privacyPage": {
+    "eyebrow": "Privasi dan Data Murid",
+    "title": "Kami hanya menyimpan data yang diperlukan untuk pendampingan membaca",
+    "body": "Halaman ini menjelaskan rancangan dasar privasi LITERATERAPI-SAKTI untuk fasa MVP. Bahasa di bawah disusun supaya mudah dibaca sekolah, ibu bapa/penjaga, pendamping, dan murid. Dokumen operasi final tetap perlu disahkan oleh pengelola program atau sekolah.",
+    "dataTitle": "Data yang dikumpulkan",
+    "dataItems": {
+      "account": {
+        "title": "Akaun dan peranan",
+        "body": "ID akaun Supabase, peranan pengguna, nama paparan, dan keahlian kelas. E-mel digunakan oleh Supabase Auth untuk log masuk."
+      },
+      "preferences": {
+        "title": "Keutamaan murid",
+        "body": "Pilihan avatar, tema, bahasa aplikasi, dan tetapan keselesaan lain yang diperlukan untuk pengalaman belajar."
+      },
+      "reading": {
+        "title": "Aktiviti membaca",
+        "body": "Slug cerita, tajuk cerita, kemajuan bahagian skrin yang diteroka, masa kemas kini, dan catatan refleksi S-A-K-T-I."
+      },
+      "companionNotes": {
+        "title": "Catatan pendamping",
+        "body": "Catatan ringkas fasilitator untuk membantu pendampingan kelas. Catatan ini bukan diagnosis klinikal."
+      }
+    },
+    "purposesTitle": "Tujuan penggunaan",
+    "purposes": {
+      "access": "Mengaktifkan log masuk, peranan, dan akses kelas.",
+      "dashboard": "Memaparkan papan pemuka murid, kemajuan cerita, level, avatar, dan tema.",
+      "companion": "Membantu pendamping melihat isyarat belajar dan refleksi secara terbatas.",
+      "security": "Menjaga keselamatan aplikasi, audit akses, dan penambahbaikan pengalaman penggunaan."
+    },
+    "rightsTitle": "Hak murid dan ibu bapa/penjaga",
+    "rights": {
+      "explanation": "Meminta penjelasan data apa yang tersimpan.",
+      "correction": "Meminta pembetulan nama paparan atau data kelas yang keliru.",
+      "deletion": "Meminta penghapusan akaun atau refleksi, sesuai dasar sekolah dan kewajipan arkib yang berlaku.",
+      "refusal": "Menolak penggunaan data di luar tujuan pendampingan belajar dan keselamatan aplikasi."
+    },
+    "notDoingTitle": "Yang tidak kami lakukan",
+    "notDoing": {
+      "noSale": "Tidak menjual data murid.",
+      "noAds": "Tidak menggunakan iklan bertarget.",
+      "noPeerReflection": "Tidak memaparkan refleksi peribadi murid kepada rakan sekelas.",
+      "noProgressClaim": "Tidak menyebut kemajuan membaca sebagai bukti bahawa murid memahami seluruh teks."
+    },
+    "storageTitle": "Penyimpanan, keselamatan, dan akses",
+    "storageBody1": "Data disimpan di Supabase dengan akses berdasarkan peranan. Murid hanya dapat melihat datanya sendiri. Fasilitator hanya melihat murid dalam kelas dampingan. Admin teknikal dapat mengelola data sesuai keperluan operasi dan keselamatan.",
+    "storageBody2": "Data dikekalkan selama akaun atau kelas masih aktif, kemudian dapat dihapus atau dianonimkan mengikuti dasar sekolah, keperluan audit, dan kewajipan undang-undang yang berlaku.",
+    "principlesTitle": "Rujukan prinsip",
+    "principlesBody": "Rancangan ini mengikuti prinsip data minimum, tujuan yang jelas, keselamatan, hak akses, dan perhatian khusus pada data anak. Untuk Indonesia, UU No. 27 Tahun 2022 menempatkan data anak sebagai data peribadi spesifik. OECD Privacy Guidelines juga memuat prinsip umum antarabangsa tentang pengumpulan dan pengelolaan maklumat peribadi.",
+    "readGuide": "Baca panduan"
+  },
+  "adminDashboard": {
+    "eyebrow": "Papan Pemuka Admin",
+    "title": "Kelola akaun dan role aplikasi",
+    "description": "Area ini digunakan untuk memberi role fasilitator, kaunselor, editor, peneliti, atau admin kepada akaun yang sudah terdaftar. Perubahan role hanya dapat dilakukan oleh administrator.",
+    "myRolesEyebrow": "Pilih Role Saya",
+    "myRolesTitle": "Ruang kerja yang boleh anda akses",
+    "myRolesBody": "Kerana akaun ini memiliki beberapa role, pilih ruang kerja sesuai tugas yang ingin dilakukan saat ini.",
+    "activeRoles": "{count} role aktif",
+    "accountListTitle": "Daftar akaun",
+    "accountListBody": "Memaparkan hingga 100 akaun terbaru daripada Supabase Auth.",
+    "accountCount": "{filtered}/{total} akaun",
+    "searchPlaceholder": "Cari nama atau e-mel...",
+    "allRoles": "Semua role",
+    "filter": "Tapis",
+    "emptyUsers": "Tiada akaun yang cocok dengan tapisan.",
+    "revokeRoleTitle": "Klik untuk mencabut role",
+    "noRole": "Belum ada role",
+    "created": "Dibuat",
+    "notYet": "Belum",
+    "emailVerification": "Pengesahan e-mel",
+    "notVerified": "Belum disahkan",
+    "addRole": "Tambah role",
+    "deleteAccount": "Hapus akaun",
+    "deleteAccountTitle": "Hapus akaun pengguna ini",
+    "deleteSelfDisabled": "Admin tidak boleh menghapus akaun sendiri",
+    "deleteAccountConfirm": "Yakin ingin menghapus akaun {email}? Tindakan ini akan menghapus akaun log masuk dan data terkait yang terhubung.",
+    "healthEyebrow": "Kesihatan Sistem",
+    "healthTitle": "Ringkasan operasi aplikasi",
+    "healthBody": "Pantau titik yang perlu dibereskan sebelum digunakan bersama sekolah atau kelas nyata.",
+    "health": {
+      "totalUsers": {
+        "label": "Total akaun",
+        "detail": "Akaun yang terdaftar di Supabase Auth."
+      },
+      "studentsWithoutClass": {
+        "label": "Murid belum masuk kelas",
+        "detail": "Perlu dihubungkan melalui kod kelas atau area kelola kelas admin."
+      },
+      "emptyClasses": {
+        "label": "Kelas kosong",
+        "detail": "Kelas yang belum punya ahli murid."
+      },
+      "openReports": {
+        "label": "Laporan terbuka",
+        "detail": "Laporan kandungan yang belum diselesaikan moderator."
+      },
+      "openCompanionNotes": {
+        "label": "Catatan terbuka",
+        "detail": "Catatan pendamping/kaunselor yang belum ditandai selesai."
+      },
+      "storiesNeedReview": {
+        "label": "Cerita perlu tinjauan",
+        "detail": "Cerita berstatus perlu revisi gambar atau perlu tinjauan ahli."
+      }
+    },
+    "classAdminEyebrow": "Kelola Kelas",
+    "classAdminTitle": "Hubungkan murid lama ke kelas dampingan",
+    "classAdminBody": "Gunakan area ini untuk membuat kelas, memilih fasilitator, dan memasukkan akaun murid yang sudah terlanjur mendaftar tanpa kod kelas.",
+    "classCount": "{count} kelas",
+    "createClassTitle": "Buat kelas baharu",
+    "schoolName": "Nama sekolah",
+    "schoolNamePlaceholder": "Contoh: SMP Literaterapi",
+    "country": "Negara",
+    "className": "Nama kelas",
+    "classNamePlaceholder": "Contoh: Kelas 7A",
+    "facilitator": "Fasilitator/Pendamping",
+    "chooseFacilitator": "Pilih fasilitator",
+    "createClassSubmit": "Buat kelas",
+    "assignStudentTitle": "Masukkan murid ke kelas",
+    "assignStudentBody": "Pilih kelas dan murid. Setelah tersambung, murid muncul di papan pemuka fasilitator dan papan kelas murid.",
+    "chooseClass": "Pilih kelas",
+    "chooseStudent": "Pilih murid",
+    "assignStudentSubmit": "Tambahkan",
+    "classFacilitator": "Pendamping: {name}",
+    "removeStudent": "Lepas dari kelas",
+    "emptyClassMembers": "Belum ada murid dalam kelas ini.",
+    "emptyClasses": "Belum ada kelas. Buat kelas pertama terlebih dahulu.",
+    "messages": {
+      "adminOnly": "Hanya administrator yang dapat mengelola peranan akaun.",
+      "serviceRoleMissing": "SUPABASE_SERVICE_ROLE_KEY belum tersedia di pelayan."
+    }
+  },
+  "actionMessages": {
+    "student": {
+      "sessionMissing": "Sesi log masuk tidak ditemukan.",
+      "invalidPreference": "Pilihan avatar atau tema tidak valid.",
+      "preferenceSaved": "Avatar dan tema berjaya disimpan.",
+      "preferenceSaveFailed": "Avatar dan tema belum dapat disimpan. Cuba lagi sebentar.",
+      "joinCodeRequired": "Masukkan kod kelas daripada pendamping.",
+      "serverConfigMissing": "Konfigurasi pelayan Supabase belum lengkap.",
+      "classCodeNotFound": "Kod kelas tidak ditemukan.",
+      "classJoinFailed": "Kelas belum dapat dihubungkan. Cuba lagi atau minta pendamping memeriksa kod kelas.",
+      "classJoined": "Berjaya terhubung ke {name}.",
+      "classJoinedSimple": "Berjaya menyertai kelas."
+    }
+  },
+  "facilitatorDashboard": {
+    "eyebrow": "Papan Pemuka Pendamping",
+    "title": "Memantau kelas tanpa membuat murid merasa diawasi.",
+    "description": "Ruang ini membantu fasilitator melihat kemajuan membaca, catatan refleksi, dan keperluan sapaan yang menyokong. Angka kemajuan diperlakukan sebagai jejak skrin, bukan bukti bahawa murid sudah memahami seluruh cerita.",
+    "demoNotice": "Mod demo aktif kerana belum ada data kelas/kemajuan yang boleh dibaca daripada Supabase untuk akaun ini.",
+    "warnings": {
+      "sessionUnavailable": "Data pendamping belum dapat dibaca kerana sesi atau konfigurasi Supabase tidak tersedia.",
+      "classReadFailed": "Data kelas belum dapat dibaca. Cuba muat semula halaman atau periksa konfigurasi Supabase."
+    },
+    "signals": {
+      "needsGreeting": {
+        "label": "Perlu Sapaan",
+        "detail": "Murid dengan kemajuan rendah atau refleksi belum selesai."
+      },
+      "newReflections": {
+        "label": "Refleksi Baharu",
+        "detail": "{count} murid sudah menulis catatan S-A-K-T-I."
+      },
+      "activeStories": {
+        "label": "Cerita Aktif",
+        "detail": "Cerpen Indonesia dan Malaysia siap digunakan."
+      },
+      "trackedClasses": {
+        "label": "Kelas Dipantau",
+        "detail": "Kelas yang terhubung dengan akaun fasilitator ini."
+      }
+    },
+    "learnerSignals": {
+      "notStarted": "Belum mula",
+      "reflectionReceived": "Refleksi masuk",
+      "stoppedEarly": "Berhenti awal",
+      "awaitingReflection": "Belum refleksi"
+    },
+    "learnerActions": {
+      "gentleReminder": "Kirim pengingat lembut",
+      "briefFeedback": "Beri maklum balas ringkas",
+      "lightGreeting": "Tawarkan sapaan ringan",
+      "inviteReflection": "Ajak menulis catatan"
+    },
+    "illustrationAlt": "Ilustrasi papan pemuka pendamping",
+    "avatarAlt": "Avatar pendamping",
+    "profileTitle": "Pendamping kelas",
+    "profileSubtitle": "Area fasilitator dan kaunselor",
+    "classes": {
+      "eyebrow": "Kelas Dampingan",
+      "title": "Kod kelas untuk murid",
+      "body": "Bagikan kod kelas kepada murid. Setelah murid memasukkan kod ini di papan pemuka, mereka akan muncul dalam pantauan pendamping.",
+      "memberCount": "{count} murid",
+      "joinCode": "Kod kelas",
+      "empty": "Belum ada kelas. Buat kelas pertama di formulir sebelah kanan, lalu bagikan kod kelas kepada murid."
+    },
+    "createClass": {
+      "eyebrow": "Buat Kelas",
+      "title": "Tambah kelas dampingan",
+      "schoolName": "Nama sekolah",
+      "schoolPlaceholder": "Contoh: SMK Nusantara",
+      "country": "Negara",
+      "className": "Nama kelas",
+      "classPlaceholder": "Contoh: Kelas 7A",
+      "submit": "Buat kelas dan kod",
+      "hint": "Kod dibuat otomatis dan hanya menghubungkan murid ke kelas ini. Murid tetap harus memiliki akaun sendiri."
+    },
+    "monitoring": {
+      "eyebrow": "Pantauan Murid",
+      "title": "Kemajuan skrin dan tindak lanjut",
+      "body": "Gunakan data ini sebagai pembuka perbualan yang ringan dan manusiawi.",
+      "student": "Murid",
+      "story": "Cerita",
+      "progress": "Kemajuan skrin",
+      "signal": "Isyarat",
+      "action": "Tindak lanjut",
+      "progressValue": "{progress}% bahagian diteroka",
+      "empty": "Belum ada murid dalam kelas dampingan. Setelah kelas dan ahli kelas tersedia, data kemajuan/refleksi akan muncul di sini."
+    },
+    "notes": {
+      "eyebrow": "Catatan Pendamping",
+      "title": "Tindak lanjut murid",
+      "body": "Catatan ini tersimpan untuk pendamping dan belum ditampilkan kepada murid.",
+      "historyTitle": "Riwayat catatan terbaru",
+      "defaultLearner": "Murid dampingan",
+      "emptyHistory": "Belum ada riwayat catatan. Setelah pendamping menyimpan catatan, daftar singkatnya akan muncul di sini.",
+      "placeholder": "Tulis sapaan, rencana cek-in, atau tindak lanjut ringan...",
+      "submit": "Simpan catatan",
+      "updateStatus": "Perbarui status",
+      "emptyForm": "Form catatan akan muncul setelah ada murid nyata dalam kelas dampingan."
+    },
+    "agenda": {
+      "eyebrow": "Agenda",
+      "title": "Prioriti sesi",
+      "tasks": {
+        "reviewReflection": {
+          "title": "Tinjau refleksi baharu",
+          "note": "Balas dengan satu pertanyaan terbuka yang tidak menghakimi."
+        },
+        "prepareDiscussion": {
+          "title": "Sediakan diskusi kelas",
+          "note": "Pakai label awam bukan klinikal untuk menjaga rasa selamat murid."
+        },
+        "chooseNextStory": {
+          "title": "Pilih cerita sesi seterusnya",
+          "note": "Utamakan cerita yang intensiti emosinya sederhana."
+        }
+      }
+    },
+    "recommendations": {
+      "eyebrow": "Rekomendasi",
+      "title": "Cerita minggu ini",
+      "coverAlt": "Sampul {title}",
+      "minutes": "{count} minit",
+      "reviewStory": "Tinjau cerita"
+    }
+  },
+  "rolePages": {
+    "editor": {
+      "eyebrow": "Area Editor Kandungan",
+      "title": "Kurasi cerpen, kategori, dan bahan bacaan",
+      "description": "Editor kandungan menjaga koleksi cerita, kategori awam, dan visual agar sesuai usia, selamat, dan tetap dalam kerangka literasi reflektif.",
+      "primaryLabel": "Lihat pustaka murid",
+      "links": {
+        "moderator": {
+          "label": "Moderator",
+          "detail": "Koordinasi jika ada kandungan atau visual yang perlu ditinjau keselamatan bahasanya."
+        },
+        "expert": {
+          "label": "Ahli",
+          "detail": "Minta tinjauan akademik, budaya, dan kesesuaian konsep."
+        },
+        "researcher": {
+          "label": "Peneliti",
+          "detail": "Lihat cerita yang paling sering diteroka sebagai bahan evaluasi kandungan."
+        }
+      },
+      "cards": {
+        "activeStories": {
+          "title": "Cerpen aktif",
+          "body": "{count} cerpen tersedia untuk murid di pustaka."
+        },
+        "categories": {
+          "title": "Kategori awam",
+          "body": "{count} kategori bukan klinikal digunakan untuk membantu murid memilih cerita."
+        },
+        "visuals": {
+          "title": "Aset visual",
+          "body": "{count} cerpen sudah memiliki sampul dan ilustrasi adegan."
+        }
+      },
+      "note": "Editor kandungan menjaga bahasa dan visual tetap selamat. Perubahan kandungan yang menyentuh isu sensitif sebaiknya ditinjau bersama ahli atau kaunselor.",
+      "minutes": "{count} minit",
+      "status": {
+        "aman": "Selamat",
+        "perlu_revisi_gambar": "Perlu revisi gambar",
+        "perlu_tinjauan_ahli": "Perlu tinjauan ahli",
+        "selesai": "Selesai"
+      },
+      "catalog": {
+        "title": "Katalog editorial",
+        "body": "Katalog ini membaca data lokal content-prepared dan aset public/assets/stories.",
+        "coverAlt": "Sampul {title}",
+        "storyMeta": "{categories} kategori - {illustrations} ilustrasi",
+        "reviewStory": "Tinjau cerita",
+        "revisionStatus": "Status revisi",
+        "statusNotePlaceholder": "Catatan status revisi...",
+        "saveStatus": "Simpan status",
+        "editorialNotePlaceholder": "Catatan editorial...",
+        "saveNote": "Simpan catatan"
+      },
+      "studio": {
+        "eyebrow": "Studio draf",
+        "title": "Buat cerita baharu",
+        "body": "Gunakan templat ini untuk menyiapkan naskhah, metadata, gambar, dan prompt S-A-K-T-I. Draf belum dipaparkan kepada murid sebelum melalui proses tinjauan.",
+        "fields": {
+          "titleId": "Judul Indonesia",
+          "titleMs": "Judul Malaysia",
+          "slug": "Slug cerita",
+          "cover": "URL/path gambar sampul",
+          "coverUpload": "Muat naik gambar sampul",
+          "synopsisId": "Sinopsis Indonesia",
+          "synopsisMs": "Sinopsis Malaysia",
+          "bodyId": "Teks cerita Indonesia",
+          "bodyMs": "Teks cerita Malaysia",
+          "country": "Negara konteks",
+          "language": "Bahasa asal",
+          "minutes": "Anggaran minit bacaan",
+          "internalCategory": "Kategori dalaman",
+          "ageMin": "Umur minimum",
+          "ageMax": "Umur maksimum",
+          "intensity": "Intensiti emosi",
+          "facilitator": "Keperluan pendamping",
+          "categories": "Kategori awam bukan klinikal",
+          "scenes": "Gambar adegan",
+          "sceneUpload": "Muat naik gambar adegan",
+          "sceneFileNotes": "Deskripsi dan posisi gambar muat naik",
+          "sakti": "Prompt S-A-K-T-I"
+        },
+        "placeholders": {
+          "titleId": "Contoh: Pasar Malam di Dalam Kepalaku",
+          "titleMs": "Contoh: Pasar Malam di Dalam Kepalaku",
+          "slug": "Boleh dikosongkan, sistem akan membuat secara automatik",
+          "cover": "/assets/stories/judul-baru/cover.jpg atau URL gambar",
+          "synopsisId": "Ringkasan cerita yang selamat dan menarik untuk murid.",
+          "synopsisMs": "Ringkasan versi Malaysia jika sudah tersedia.",
+          "bodyId": "Tampal teks cerita lengkap versi Indonesia di sini.",
+          "bodyMs": "Tampal teks cerita lengkap versi Malaysia di sini.",
+          "internalCategory": "Contoh: anxiety_related, learning_related",
+          "scenes": "Satu baris bagi setiap gambar: URL | deskripsi alt | posisi adegan",
+          "sceneFileNotes": "Satu baris bagi setiap gambar muat naik: deskripsi alt | posisi adegan. Urutannya mengikuti urutan fail yang dipilih.",
+          "sakti": {
+            "sadar": "Pernyataan kesediaan sebelum membaca judul cerita.",
+            "aktif": "Respons pengalaman yang mirip dengan watak.",
+            "kritis": "Refleksi makna, emosi, dan nilai budaya.",
+            "terbuka": "Cara atau keputusan berbeza yang boleh dicuba.",
+            "imersif": "Gagasan baharu untuk dimasukkan ke dalam cerita."
+          }
+        },
+        "uploadHelp": "Format: JPG, PNG, atau WEBP. Maksimum 5 MB bagi setiap gambar. Aset muat naik disimpan privat untuk proses tinjauan.",
+        "intensity": {
+          "low": "Rendah",
+          "medium": "Sederhana",
+          "high": "Tinggi"
+        },
+        "facilitator": {
+          "independent": "Mandiri",
+          "recommended": "Disarankan",
+          "required": "Wajib",
+          "restricted": "Terhad"
+        },
+        "sakti": {
+          "sadar": "S - Sedar",
+          "aktif": "A - Aktif",
+          "kritis": "K - Kritis",
+          "terbuka": "T - Terbuka",
+          "imersif": "I - Imersif"
+        },
+        "safetyNote": "Catatan: elakkan diagnosis, label klinikal pada paparan murid, arahan perubatan, atau janji penyembuhan. Draf perlu ditinjau sebelum diterbitkan.",
+        "submit": "Simpan draf cerita"
+      },
+      "drafts": {
+        "title": "Draf cerita terbaru",
+        "body": "Daftar ini berisi cerita yang dibuat melalui dashboard editor dan masih berada dalam alur tinjauan.",
+        "categoryCount": "{count} kategori",
+        "sceneCount": "{count} gambar adegan",
+        "updateStatus": "Perbarui status",
+        "empty": "Belum ada draf cerita dari dashboard editor.",
+        "status": {
+          "draft": "Draf",
+          "editing": "Penyuntingan",
+          "linguistic_review": "Tinjauan bahasa",
+          "literary_review": "Tinjauan sastera",
+          "cultural_review": "Tinjauan budaya",
+          "psychological_review": "Tinjauan psikologi",
+          "approved": "Diluluskan",
+          "ready_to_publish": "Sedia diterbitkan",
+          "archived": "Diarkibkan"
+        }
+      },
+      "notes": {
+        "title": "Catatan daripada moderator dan ahli",
+        "empty": "Belum ada catatan lintas role."
+      }
+    },
+    "expert": {
+      "eyebrow": "Area Ahli",
+      "title": "Tinjauan akademik dan lintas budaya",
+      "description": "Ahli membantu memastikan cerita, kategori, dan alur S-A-K-T-I tetap tepat secara akademik, budaya, dan bukan klinikal.",
+      "links": {
+        "editor": {
+          "label": "Editor Kandungan",
+          "detail": "Berikan catatan penambahbaikan pada cerita, kategori, atau visual."
+        },
+        "moderator": {
+          "label": "Moderator",
+          "detail": "Koordinasi bila ada risiko bahasa, visual, atau konteks yang perlu dimoderasi."
+        },
+        "researcher": {
+          "label": "Peneliti",
+          "detail": "Gunakan temuan agregat untuk mengevaluasi dampak desain pembelajaran."
+        }
+      },
+      "cards": {
+        "indonesia": {
+          "title": "Cerita Indonesia",
+          "body": "{count} cerpen memakai konteks budaya Indonesia."
+        },
+        "malaysia": {
+          "title": "Cerita Malaysia",
+          "body": "{count} cerpen memakai konteks budaya Malaysia."
+        },
+        "review": {
+          "title": "Perlu tinjauan",
+          "body": "{count} cerpen masuk daftar prioriti tinjauan ahli."
+        }
+      },
+      "note": "Peranan ahli membantu menjaga mutu akademik dan budaya, bukan membaca data peribadi murid kecuali ada izin dan keperluan yang jelas.",
+      "reviewSection": {
+        "title": "Prioriti tinjauan ahli",
+        "body": "Cerita berikut layak ditinjau dari sisi konteks budaya, intensiti emosi, dan batas bukan klinikal.",
+        "storyContext": "Intensiti: {intensity}. Pendampingan: {requirement}. Pastikan bahasa refleksi tetap literasi, bukan arahan klinikal.",
+        "rubricTitle": "Rubrik tinjauan",
+        "recommendationLabel": "Cadangan ahli",
+        "recommendations": {
+          "layak": "Sesuai digunakan",
+          "perlu_revisi": "Perlu semak semula",
+          "tidak_cocok": "Tidak sesuai"
+        },
+        "rubricNotePlaceholder": "Catatan ringkas untuk keputusan rubrik...",
+        "saveRubric": "Simpan rubrik",
+        "notePlaceholder": "Catatan ahli untuk editor/moderator...",
+        "saveReview": "Simpan tinjauan"
+      },
+      "rubric": {
+        "culture": "Kesesuaian budaya Indonesia/Malaysia",
+        "nonClinical": "Bahasa bukan klinikal dan tidak menghakimi",
+        "age": "Kesesuaian usia murid menengah rendah",
+        "publicCategory": "Kategori awam mudah difahami murid",
+        "saktiAffirmation": "Afirmasi S-A-K-T-I selaras dengan cerita"
+      },
+      "notes": {
+        "title": "Catatan lintas role terbaru",
+        "empty": "Belum ada catatan lintas role."
+      }
+    },
+    "moderator": {
+      "eyebrow": "Area Moderator",
+      "title": "Moderasi keselamatan dan kualiti ruang baca",
+      "description": "Moderator menjaga agar kandungan, label, dan interaksi tetap selamat, bukan klinikal, dan tidak menghakimi murid.",
+      "links": {
+        "editor": {
+          "label": "Editor Kandungan",
+          "detail": "Kirim temuan bahasa, gambar, atau kategori yang perlu diperbaiki."
+        },
+        "expert": {
+          "label": "Ahli",
+          "detail": "Minta tinjauan akademik atau budaya untuk kandungan sensitif."
+        },
+        "admin": {
+          "label": "Administrator",
+          "detail": "Eskalasi isu akses, akaun, dan tata kelola platform."
+        }
+      },
+      "cards": {
+        "queue": {
+          "title": "Antrean tinjauan",
+          "body": "{count} cerpen masuk daftar pantau kerana intensiti atau keperluan pendampingan."
+        },
+        "companion": {
+          "title": "Perlu pendamping",
+          "body": "{count} cerpen ditandai memerlukan pendampingan direkomendasikan atau lebih tinggi."
+        },
+        "boundary": {
+          "title": "Batas moderasi",
+          "body": "Moderator menjaga keselamatan ruang, bukan menilai keadaan peribadi murid."
+        },
+        "reports": {
+          "title": "Laporan pengguna",
+          "body": "{count} laporan kandungan masih terbuka atau sedang ditinjau."
+        }
+      },
+      "note": "Moderator tidak mengubah data klinikal dan tidak memberi penilaian terhadap murid. Fokusnya ialah keselamatan ruang, kualiti kandungan, dan kepatuhan penggunaan.",
+      "save": "Simpan",
+      "status": {
+        "aman": "selamat",
+        "perlu_revisi_gambar": "perlu revisi gambar",
+        "perlu_tinjauan_ahli": "perlu tinjauan ahli",
+        "selesai": "selesai",
+        "open": "Terbuka",
+        "in_review": "Ditinjau",
+        "resolved": "Selesai"
+      },
+      "queueSection": {
+        "title": "Antrean moderasi kandungan",
+        "body": "Daftar awal berbasis metadata cerita, laporan pengguna, dan status revisi editorial.",
+        "storyContext": "Status pendampingan: {requirement}. Periksa apakah deskripsi, gambar, dan kategori awam tetap selamat untuk murid.",
+        "revisionStatus": "Status revisi: {status}",
+        "notePlaceholder": "Catatan moderasi untuk editor/ahli...",
+        "sendNote": "Kirim catatan"
+      },
+      "reportsSection": {
+        "title": "Laporan pengguna",
+        "body": "Murid, fasilitator, atau role lain dapat menandai teks/gambar yang terasa tidak selesa. Laporan ini dipakai untuk meninjau kandungan, bukan menilai murid.",
+        "empty": "Belum ada laporan pengguna."
+      },
+      "notesSection": {
+        "title": "Catatan lintas role",
+        "body": "Catatan daripada moderator, editor, dan ahli untuk memperbaiki kandungan secara terhubung.",
+        "empty": "Belum ada catatan lintas role."
+      }
+    },
+    "researcher": {
+      "eyebrow": "Area Peneliti",
+      "title": "Data agregat untuk evaluasi program",
+      "description": "Peneliti melihat pola penggunaan secara agregat dan anonim untuk mengevaluasi desain pembelajaran, bukan untuk mengenal pasti murid.",
+      "links": {
+        "expert": {
+          "label": "Ahli",
+          "detail": "Diskusikan temuan agregat dengan tinjauan akademik dan budaya."
+        },
+        "editor": {
+          "label": "Editor Kandungan",
+          "detail": "Gunakan pola cerita popular untuk memprioritaskan revisi kandungan."
+        },
+        "admin": {
+          "label": "Administrator",
+          "detail": "Koordinasi izin akses data, role, dan tata kelola ekspor."
+        }
+      },
+      "cards": {
+        "students": {
+          "title": "Murid terdaftar",
+          "body": "{count} akaun memiliki role murid."
+        },
+        "classes": {
+          "title": "Kelas aktif",
+          "body": "{count} kelas tersedia untuk pendampingan."
+        },
+        "traces": {
+          "title": "Jejak baca",
+          "body": "{progress} kemajuan skrin dan {reflections} refleksi tersimpan."
+        }
+      },
+      "note": "Peneliti tidak boleh memakai data untuk mengenal pasti murid. Semua analisis harus memakai data minimum, agregat, anonim, dan sesuai persetujuan.",
+      "aggregate": {
+        "title": "Ringkasan agregat",
+        "body": "Angka ini membantu evaluasi program. Ia tidak memaparkan identiti atau isi refleksi murid.",
+        "unconfigured": "Agregat Supabase belum aktif kerana service role belum tersedia di pelayan."
+      },
+      "filters": {
+        "dateFrom": "Dari tanggal",
+        "dateTo": "Sampai",
+        "country": "Negara",
+        "category": "Kategori",
+        "class": "Kelas",
+        "all": "Semua",
+        "apply": "Terapkan tapisan",
+        "export": "Eksport CSV anonim"
+      },
+      "totals": {
+        "stories": "Cerita",
+        "students": "Murid",
+        "classes": "Kelas",
+        "progress": "Kemajuan",
+        "reflections": "Refleksi"
+      },
+      "charts": {
+        "empty": "Belum ada data agregat pada tapisan ini.",
+        "saktiStages": {
+          "title": "Distribusi tahap S-A-K-T-I",
+          "body": "Jumlah respons refleksi anonim pada tiap tahap membaca."
+        },
+        "progressBuckets": {
+          "title": "Kelompok kemajuan membaca",
+          "body": "Sebaran kemajuan skrin murid dalam rentang peratusan."
+        },
+        "storyCountries": {
+          "title": "Asal budaya cerita",
+          "body": "Jumlah kemajuan berdasarkan negara asal cerita yang dibaca."
+        },
+        "publicCategories": {
+          "title": "Kategori publik cerita",
+          "body": "Pola kategori cerita yang paling sering diteroka murid."
+        },
+        "popularStories": {
+          "title": "Grafik cerita popular",
+          "body": "Visualisasi cerita dengan kemajuan terbanyak dalam tapisan aktif."
+        }
+      },
+      "popular": {
+        "title": "Cerita paling sering diteroka",
+        "count": "{count} murid memiliki kemajuan pada cerita ini.",
+        "empty": "Belum ada data kemajuan cerita. Setelah murid membaca, daftar agregat akan muncul di sini."
+      }
+    },
+    "counselor": {
+      "eyebrow": "Area Kaunselor / Pendamping Psikologis",
+      "title": "Pendampingan refleksi murid",
+      "description": "Ruang ini membantu kaunselor membaca isyarat refleksi dan kemajuan murid secara hati-hati, lalu menyusun tindak lanjut yang menyokong bersama pendamping kelas.",
+      "primaryLabel": "Buka pantauan fasilitator",
+      "links": {
+        "facilitator": {
+          "label": "Fasilitator",
+          "detail": "Melihat kelas, kod kelas, kemajuan skrin, dan catatan pendamping."
+        },
+        "moderator": {
+          "label": "Moderator",
+          "detail": "Meneruskan isu keselamatan ruang baca bila ada kandungan atau interaksi yang perlu ditinjau."
+        },
+        "admin": {
+          "label": "Administrator",
+          "detail": "Memastikan role kaunselor dan akses kelas sudah sesuai."
+        }
+      },
+      "cards": {
+        "priority": {
+          "title": "Prioriti sapaan",
+          "body": "{count} murid terdeteksi perlu sapaan atau refleksinya perlu dibaca lebih hati-hati."
+        },
+        "classes": {
+          "title": "Kelas terhubung",
+          "body": "{count} kelas tersedia daripada area pendamping/fasilitator akaun ini."
+        },
+        "activeStories": {
+          "title": "Cerita aktif",
+          "body": "Gunakan konteks cerita sebagai pembuka perbualan, bukan sebagai alat diagnosis."
+        }
+      },
+      "note": "Area kaunselor bukan ruang diagnosis. Catatan murid harus dipakai untuk sokongan selamat, perbualan sukarela, dan eskalasi profesional hanya bila benar-benar diperlukan.",
+      "protocol": {
+        "eyebrow": "Protokol tindak lanjut selamat",
+        "safeGreeting": {
+          "title": "Sapaan selamat",
+          "body": "Mulakan dengan kalimat ringan: Saya melihat kamu sudah mencuba membaca. Bahagian mana yang paling ingin kamu ceritakan?"
+        },
+        "escalation": {
+          "title": "Eskalasi",
+          "body": "Jika muncul isyarat bahaya diri, bahaya kepada orang lain, atau tekanan berat, ikuti SOP sekolah dan libatkan penjaga serta profesional berwenang."
+        },
+        "boundary": {
+          "title": "Batas bukan diagnosis",
+          "body": "Jangan menyimpulkan diagnosis daripada pilihan cerita, kemajuan skrin, atau refleksi. Pakai data sebagai pembuka sokongan, bukan label peribadi."
+        }
+      },
+      "attention": {
+        "title": "Daftar perhatian kaunselor",
+        "body": "Data ini ialah pembuka pendampingan, bukan bukti keadaan psikologis murid.",
+        "followUp": "Rekomendasi tindak lanjut: {action}. Lakukan dengan bahasa yang ringan, privat, dan tidak memaksa murid membuka hal yang belum siap dibagikan.",
+        "placeholder": "Tulis rencana cek-in kaunselor...",
+        "save": "Simpan tindak lanjut",
+        "empty": "Belum ada isyarat prioriti. Tetap gunakan area fasilitator untuk memantau kelas secara berkala."
+      }
+    }
+  },
+  "sakti": {
+    "sadar": "Sedar",
+    "aktif": "Aktif",
+    "kritis": "Kritis",
+    "terbuka": "Terbuka",
+    "imersif": "Imersif",
+    "readFull": "Baca cerpen penuh"
+  },
+  "language": {
+    "switchLabel": "Bahasa",
+    "followInterface": "Ikut bahasa aplikasi",
+    "original": "Bahasa asal",
+    "fallbackNotice": "Versi bahasa yang kamu pilih belum tersedia untuk cerita ini - dipaparkan dalam bahasa asalnya."
+  },
+  "translation": {
+    "loading": "Menterjemah cerita mengikut bahasa pilihan...",
+    "unconfigured": "Terjemahan automatik belum aktif. Isi OPENAI_API_KEY atau LIBRETRANSLATE_URL dalam .env.local.",
+    "error": "Terjemahan automatik belum berjaya. Cerita sementara dipaparkan dalam bahasa asal."
+  },
+  "categories": {
+    "menemukan-ketenangan": "Menemukan Ketenangan",
+    "menemukan-harapan": "Menemukan Harapan",
+    "mengelola-emosi": "Mengurus Emosi",
+    "menemukan-cara-belajar": "Menemukan Cara Belajar",
+    "menghargai-diri": "Menghargai Diri",
+    "berani-menghadapi-tekanan": "Berani Menghadapi Tekanan",
+    "membangun-pertemanan-sehat": "Membina Persahabatan Sihat",
+    "mendengarkan-tubuh": "Mendengar Tubuh",
+    "mencari-pegangan": "Mencari Pegangan",
+    "meminta-bantuan": "Meminta Bantuan"
+  },
+  "reader": {
+    "progressSaved": "Kemajuan membaca disimpan",
+    "progressShort": "Kemajuan",
+    "progressClarification": "Kemajuan ini hanya menandakan bahagian yang telah diteroka pada skrin. Ia bukan bukti bahawa seluruh teks sudah difahami.",
+    "finishDialogLabel": "Perjalanan cerita selesai",
+    "finishEyebrow": "Perjalanan S-A-K-T-I selesai",
+    "finishBody": "Kamu sudah menyelesaikan tahapan refleksi cerita ini. Kemajuan disimpan sebagai perjalanan membaca, bukan penilaian diri.",
+    "finishStages": "5 Tahap",
+    "continueToRewards": "Teruskan",
+    "rewardTitle": "Hadiah S-A-K-T-I",
+    "musicAfterStart": "Muzik selepas mula",
+    "musicActive": "Muzik: Aktif",
+    "musicTurnOn": "Hidupkan muzik",
+    "musicOff": "Muzik: Mati",
+    "readingMinutes": "{count} minit bacaan",
+    "readingLanguageTitle": "Bahasa bacaan",
+    "readingLanguageBody": "Pilih bahasa teks cerpen dan lembar S-A-K-T-I.",
+    "translationLoadingTo": "Menterjemah otomatis ke {language}...",
+    "translationUsingStatic": "Teks bacaan memakai versi bahasa yang tersimpan dalam aplikasi.",
+    "translationUsingAuto": "Teks bacaan sedang memakai hasil terjemahan otomatis.",
+    "translationUnavailable": "Terjemahan otomatis belum tersedia saat ini. Teks asal tetap dipaparkan.",
+    "translationDetail": "Butiran: {error}",
+    "coverAlt": "Sampul cerpen {title}",
+    "stageLabel": "Tahap {letter} - {stage}",
+    "sadarBeforeReading": "Sedar sebelum membaca",
+    "sadarIntro": "Sebelum teks cerpen dibuka, pilih respons kesediaanmu. Ini bermaksud kamu sedar bahawa kamu akan membaca cerita reflektif dan menyetujuinya dengan tenang.",
+    "safetyStop": "Kamu boleh berhenti pada bila-bila masa jika berasa tidak selesa. Cerita ini ialah ruang membaca reflektif, bukan ujian dan bukan penilaian diri.",
+    "startReadingAfterSadar": "Saya sedar dan mula membaca",
+    "reflectionEyebrow": "Refleksi S-A-K-T-I",
+    "reflectionTitle": "Catatan selepas membaca",
+    "responseChoices": "Pilihan respons",
+    "responseChoicesBody": "Pilih satu jawapan yang paling sesuai dengan pengalaman bacaanmu.",
+    "myReflectionNote": "Catatan refleksi saya",
+    "finishSectionEyebrow": "Selesai membaca reflektif",
+    "allStagesComplete": "Semua tahap sudah diisi",
+    "stageCompletionCount": "{completed}/5 tahap diisi",
+    "finishInstruction": "Tahap Sedar selesai sebelum membaca. Isi empat catatan A-K-T-I, kemudian tekan butang selesai untuk menutup perjalanan cerita ini dengan ganjaran.",
+    "finishButton": "Selesai / Finish",
+    "rewardProgress25": "XP +10: mula menjelajah",
+    "rewardProgress50": "XP +20: separuh perjalanan",
+    "rewardProgress75": "XP +30: penjelajah tekun",
+    "rewardProgress100": "XP +40: cerita selesai diteroka",
+    "rewardReflectionSaved": "XP +15: refleksi {stage} disimpan",
+    "rewardSadarComplete": "XP +15: tahap Sedar selesai",
+    "prompts": {
+      "sadar": "Perasaan apakah yang paling kuat dialami watak dalam cerita ini?",
+      "aktif": "Bahagian manakah yang paling dekat dengan pengalaman harian?",
+      "kritis": "Fikiran apakah yang membantu watak, dan fikiran apakah yang membuatnya terasa lebih berat?",
+      "terbuka": "Siapakah orang yang selamat untuk diajak bercakap apabila beban terasa berat?",
+      "imersif": "Apakah satu langkah kecil yang boleh dilakukan selepas membaca cerita ini?"
+    }
+  },
+  "common": {
+    "loading": "Memuatkan...",
+    "processing": "Memproses...",
+    "tryAgain": "Cuba lagi",
+    "cancel": "Batal",
+    "save": "Simpan",
+    "continue": "Teruskan",
+    "back": "Kembali"
+  }
+}

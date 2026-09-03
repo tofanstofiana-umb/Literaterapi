@@ -1,0 +1,82 @@
+{
+  "slug": "layang-layang-di-atas-kerikil",
+  "title": "Layang-layang di Atas Kerikil",
+  "originCountry": "Indonesia",
+  "originalLanguage": "id-ID",
+  "sourceDocx": "content-raw/Cerpen Indonesia/Layang 5.docx",
+  "sourceTitleParagraphIndex": 0,
+  "sourceIntroParagraphs": [],
+  "rawWordCount": 783,
+  "cleanWordCount": 783,
+  "readingEstimateMinutes": 5,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "adhd_related",
+  "publicCategorySlugs": [
+    "menemukan-cara-belajar",
+    "mengelola-emosi",
+    "membangun-pertemanan-sehat"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped_best_effort",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/scene-028-51534640-e699-4edd-8380-9f57c0ede180.png",
+    "illustrations/scene-056-780d8895-b642-4680-8347-647b241451f9.png",
+    "illustrations/scene-092-b3aae2a1-1f79-4fb5-96c3-f387487d1676.png",
+    "illustrations/scene-105-d3975c9d-2c86-4b88-840f-64b363423985.png",
+    "illustrations/scene-122-f832ddf7-aba3-451b-a8d6-2993dff5fc68.png"
+  ],
+  "notes": [
+    "Gambar Indonesia belum dipetakan otomatis; lihat content-raw/contact-sheets.",
+    "Sampul Indonesia dipetakan dari contact sheet berdasarkan judul yang terlihat; ilustrasi adegan belum dipaksa karena file mentah tidak membawa penanda cerita.",
+    "Ilustrasi adegan Indonesia dipetakan secara best-effort dari contact sheet; tinjau ulang bila digunakan sebagai bukti visual final."
+  ],
+  "publicCategoryRationale": {
+    "menemukan-cara-belajar": "menekankan strategi belajar, fokus, dan pengelolaan kebiasaan",
+    "mengelola-emosi": "menekankan pengenalan emosi dan cara meresponsnya dengan aman",
+    "membangun-pertemanan-sehat": "menekankan relasi, empati, batas, dan dukungan teman"
+  },
+  "coverSource": "content-raw/Cerpen Indonesia/bf5f7a8f-b485-4b05-bf75-6d302de0185f.png",
+  "imageMappingConfidence": "high_for_cover_mixed_for_scene_illustrations",
+  "illustrationMapping": [
+    {
+      "contactSheetIndex": 28,
+      "source": "content-raw/Cerpen Indonesia/51534640-e699-4edd-8380-9f57c0ede180.png",
+      "file": "illustrations/scene-028-51534640-e699-4edd-8380-9f57c0ede180.png",
+      "confidence": "high",
+      "note": "layang-layang di tepi pantai"
+    },
+    {
+      "contactSheetIndex": 56,
+      "source": "content-raw/Cerpen Indonesia/780d8895-b642-4680-8347-647b241451f9.png",
+      "file": "illustrations/scene-056-780d8895-b642-4680-8347-647b241451f9.png",
+      "confidence": "medium",
+      "note": "dua teman mencoba memperbaiki konflik"
+    },
+    {
+      "contactSheetIndex": 92,
+      "source": "content-raw/Cerpen Indonesia/b3aae2a1-1f79-4fb5-96c3-f387487d1676.png",
+      "file": "illustrations/scene-092-b3aae2a1-1f79-4fb5-96c3-f387487d1676.png",
+      "confidence": "medium",
+      "note": "konflik dua teman di sekolah"
+    },
+    {
+      "contactSheetIndex": 105,
+      "source": "content-raw/Cerpen Indonesia/d3975c9d-2c86-4b88-840f-64b363423985.png",
+      "file": "illustrations/scene-105-d3975c9d-2c86-4b88-840f-64b363423985.png",
+      "confidence": "high",
+      "note": "layang-layang di pantai"
+    },
+    {
+      "contactSheetIndex": 122,
+      "source": "content-raw/Cerpen Indonesia/f832ddf7-aba3-451b-a8d6-2993dff5fc68.png",
+      "file": "illustrations/scene-122-f832ddf7-aba3-451b-a8d6-2993dff5fc68.png",
+      "confidence": "high",
+      "note": "layang-layang saat senja"
+    }
+  ]
+}

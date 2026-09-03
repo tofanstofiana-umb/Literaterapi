@@ -1,0 +1,31 @@
+# Source Full: Bunga Api dalam Kepala Ammar
+
+Source: `content-raw/Cerpen Malaysia/Cerpen 5/Teks-cepren-malay-5.docx`
+
+Untuk remaja yang sedang mengalami ADHD
+
+"Bunga Api dalam Kepala Ammar"
+
+Bagi Ammar, fikirannya sentiasa seperti langit malam perayaan — penuh dengan bunga api yang meletup ke serata arah sekali gus. Satu idea muncul, belum sempat difikirkan hingga selesai, idea yang lain sudah meletup terlebih dahulu, dan sebelum dia menyedarinya, tangannya sudah bergerak ke arah benda lain, fikirannya sudah melompat ke topik yang lain sama sekali.
+
+Di dalam kelas, ini sering mendatangkan masalah. Ammar terlupa mencatat kerja rumah walaupun sudah ditulis di papan putih, menjatuhkan pensel tanpa disedari berkali-kali dalam masa sejam, dan pernah tiba-tiba berdiri di tengah kelas kerana teringat sesuatu yang "amat penting" tentang projek sains mingguan, menyebabkan seluruh kelas terkejut sekali gus ketawa.
+
+Guru-guru lain mula memberikan label "tidak fokus" dan "suka mengganggu" pada namanya di dalam buku rekod disiplin. Namun Cikgu Zalikha, guru Sains Ammar, melihat sesuatu yang berbeza. "Ammar, cuba ceritakan semula idea projek roket air tadi," katanya pada suatu hari, selepas Ammar tiba-tiba bangun menyampuk semasa pengajaran berlangsung. Ammar terus bersemangat, menghuraikan idea itu dengan perincian yang mengagumkan seluruh kelas — idea tentang bagaimana mengubah bentuk muncung roket supaya lebih laju, satu idea yang tidak terfikir oleh sesiapa pun, termasuklah Cikgu Zalikha sendiri.
+
+"Bunga api dalam kepala Ammar itu," kata Cikgu Zalikha sambil tersenyum selepas kelas tamat, "boleh menjadi bersepah jika tiada tempat untuk menampungnya. Tetapi jika ada bekas untuk menampungnya, seperti sebuah buku kecil untuk mencatat idea, atau pemasa untuk membahagikan kerja — bunga api itu boleh menjadi perkara yang paling hebat di dalam kelas ini, bukan perkara yang menyebabkan Ammar sentiasa dimarahi."
+
+Pada malam itu, Ammar bercerita kepada datuknya, Tok Wan, tentang perbualan itu, sambil duduk di beranda memerhatikan bintang-bintang yang bertaburan. Tok Wan, yang pernah menjadi salah seorang tetua kampung dalam majlis muafakat, mengangguk perlahan, matanya penuh pengertian.
+
+"Dalam adab yang dipelajari oleh Tok Wan daripada arwah ayah Tok Wan dahulu," katanya, suaranya perlahan dan tenang, "disiplin diri bukan bermaksud memaksa diri menjadi orang lain. Ia bermaksud mengenali diri sendiri dengan sebenar-benarnya, kemudian mencari cara yang paling elok untuk hidup dengan diri itu. Ammar bukanlah budak yang nakal, dan Ammar bukanlah budak yang rosak. Ammar hanyalah seorang budak yang fikirannya lebih laju sedikit berbanding orang lain — seperti air sungai yang deras, jika mempunyai saluran yang betul, ia mampu menjana kuasa yang besar, bukan sekadar melimpah merata-rata."
+
+"Dahulu semasa Tok Wan masih muda," sambung Tok Wan sambil ketawa kecil mengenangkan kembali, "ada seorang penganyam bakul dalam kampung ini yang tangannya sentiasa bergerak, tidak dapat duduk diam walau sesaat pun. Penduduk kampung dahulu menyangkanya pelik. Tetapi rupa-rupanya, bakul anyamannya paling elok dan paling laju siap berbanding orang lain, kerana tangannya yang tidak dapat diam itu jugalah yang membuatkannya pantas dan mahir. Kadangkala, apa yang kelihatan seperti masalah, sebenarnya adalah kekuatan yang belum menemui tempatnya."
+
+Tok Wan turut mengingatkan satu prinsip dalam Hati Budi Melayu — bahawa setiap orang, betapa berbezanya sekalipun cara berfikir atau bertindak, mempunyai tempatnya dalam masyarakat, dan tiada seorang pun yang layak dipandang rendah kerana caranya yang berbeza daripada orang lain.
+
+Mereka mula mencuba bersama-sama, malam demi malam: Ammar menyimpan sebuah buku kecil di dalam beg untuk idea-idea yang tiba-tiba muncul, supaya tidak hilang tetapi juga tidak mengganggu waktu belajar. Dia menggunakan pemasa untuk membahagikan kerja rumah kepada bahagian-bahagian yang pendek, dua puluh minit setiap kali, dengan waktu rehat untuk bergerak badan di antaranya. Dia dibenarkan berdiri sebentar untuk meregangkan badan pada sela-sela waktu belajar yang panjang, sesuatu yang telah dipersetujui bersama Cikgu Zalikha dan ibu bapanya.
+
+Pada mulanya, Ammar berasa pelik — seolah-olah mengakui dirinya "berbeza" secara terang-terangan di hadapan rakan-rakan. Namun lama-kelamaan, dia mula menyedari sesuatu: apabila bunga api di dalam kepalanya mempunyai bekas untuk ditampung, ia bukan lagi punca masalah, sebaliknya menjadi sumber idea-idea segar yang dinanti-nantikan oleh rakan sekelas semasa kerja berkumpulan.
+
+Pada hari pertandingan sains sekolah, projek roket air ciptaan Ammar — hasil daripada idea yang dahulu "meletup" secara tiba-tiba di tengah kelas — memenangi tempat pertama, terbang lebih tinggi berbanding mana-mana roket lain yang dibina oleh rakan sekelasnya. Semasa menerima sijil, Ammar terpandang Tok Wan di barisan penonton, tersenyum bangga sambil bertepuk tangan dengan kuat.
+
+"Nampak tidak," bisik Tok Wan selepas majlis, memeluk cucunya dengan erat, "bunga api dalam kepala Ammar itu bukanlah masalah yang perlu dipadamkan. Ia hanya memerlukan bekas yang betul untuk bersinar, dan orang di sekelilingnya yang sabar menunggunya bersinar dengan caranya yang tersendiri." Ammar tersenyum lebar, memegang sijilnya dengan erat, dan buat pertama kalinya berasa bangga dengan cara fikirannya sendiri yang cepat dan penuh warna itu.

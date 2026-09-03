@@ -1,0 +1,114 @@
+{
+  "slug": "debu-yang-menari",
+  "title": "Debu yang Menari",
+  "originCountry": "Indonesia",
+  "originalLanguage": "id-ID",
+  "sourceDocx": "content-raw/Cerpen Indonesia/Debu yang Menari.docx",
+  "sourceTitleParagraphIndex": 0,
+  "sourceIntroParagraphs": [],
+  "rawWordCount": 873,
+  "cleanWordCount": 873,
+  "readingEstimateMinutes": 5,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "adhd_related",
+  "publicCategorySlugs": [
+    "menemukan-cara-belajar",
+    "mengelola-emosi",
+    "menghargai-diri"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped_best_effort",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/scene-007-15bde5ce-3c90-4939-b58f-037110d7bd03.png",
+    "illustrations/scene-025-40b6bc75-a491-4ce4-a937-07a3fb5fc08c.png",
+    "illustrations/scene-070-8f926a2a-01cf-4d5b-a3b3-4d33ba17c26b.png",
+    "illustrations/scene-076-95546d0a-0e4f-476c-976d-1a45fec68a04.png",
+    "illustrations/scene-078-9c26c61a-c3e5-4b86-91fe-35030a126ba7.png",
+    "illustrations/scene-095-b915cb3d-1f88-42f1-a5ec-e298ef953d82.png",
+    "illustrations/scene-102-ce35f9cc-a3a7-4870-91d7-60308c5a4732.png",
+    "illustrations/scene-110-dea8cac0-c1e3-415c-ab93-af797c019de1.png",
+    "illustrations/scene-111-df064092-0faf-40f3-a053-6a2a76a1d0e1.png"
+  ],
+  "notes": [
+    "Gambar Indonesia belum dipetakan otomatis; lihat content-raw/contact-sheets.",
+    "Sampul Indonesia dipetakan dari contact sheet berdasarkan judul yang terlihat; ilustrasi adegan belum dipaksa karena file mentah tidak membawa penanda cerita.",
+    "Ilustrasi adegan Indonesia dipetakan secara best-effort dari contact sheet; tinjau ulang bila digunakan sebagai bukti visual final."
+  ],
+  "publicCategoryRationale": {
+    "menemukan-cara-belajar": "menekankan strategi belajar, fokus, dan pengelolaan kebiasaan",
+    "mengelola-emosi": "menekankan pengenalan emosi dan cara meresponsnya dengan aman",
+    "menghargai-diri": "menekankan penerimaan diri dan nilai diri yang tidak bergantung pada penilaian luar"
+  },
+  "coverSource": "content-raw/Cerpen Indonesia/4df3fd3f-b0fd-46e0-9609-8db4de838e56.png",
+  "imageMappingConfidence": "high_for_cover_mixed_for_scene_illustrations",
+  "illustrationMapping": [
+    {
+      "contactSheetIndex": 7,
+      "source": "content-raw/Cerpen Indonesia/15bde5ce-3c90-4939-b58f-037110d7bd03.png",
+      "file": "illustrations/scene-007-15bde5ce-3c90-4939-b58f-037110d7bd03.png",
+      "confidence": "medium",
+      "note": "remaja berbicara dengan tetua/pendamping"
+    },
+    {
+      "contactSheetIndex": 25,
+      "source": "content-raw/Cerpen Indonesia/40b6bc75-a491-4ce4-a937-07a3fb5fc08c.png",
+      "file": "illustrations/scene-025-40b6bc75-a491-4ce4-a937-07a3fb5fc08c.png",
+      "confidence": "high",
+      "note": "Zaki dengan Angku Sutan di surau/teras"
+    },
+    {
+      "contactSheetIndex": 70,
+      "source": "content-raw/Cerpen Indonesia/8f926a2a-01cf-4d5b-a3b3-4d33ba17c26b.png",
+      "file": "illustrations/scene-070-8f926a2a-01cf-4d5b-a3b3-4d33ba17c26b.png",
+      "confidence": "high",
+      "note": "presentasi kelompok di kelas"
+    },
+    {
+      "contactSheetIndex": 76,
+      "source": "content-raw/Cerpen Indonesia/95546d0a-0e4f-476c-976d-1a45fec68a04.png",
+      "file": "illustrations/scene-076-95546d0a-0e4f-476c-976d-1a45fec68a04.png",
+      "confidence": "medium",
+      "note": "remaja dengan tetua dalam latar budaya"
+    },
+    {
+      "contactSheetIndex": 78,
+      "source": "content-raw/Cerpen Indonesia/9c26c61a-c3e5-4b86-91fe-35030a126ba7.png",
+      "file": "illustrations/scene-078-9c26c61a-c3e5-4b86-91fe-35030a126ba7.png",
+      "confidence": "medium",
+      "note": "siswa berusaha fokus menulis"
+    },
+    {
+      "contactSheetIndex": 95,
+      "source": "content-raw/Cerpen Indonesia/b915cb3d-1f88-42f1-a5ec-e298ef953d82.png",
+      "file": "illustrations/scene-095-b915cb3d-1f88-42f1-a5ec-e298ef953d82.png",
+      "confidence": "medium",
+      "note": "remaja dan tetua berdialog sambil makan"
+    },
+    {
+      "contactSheetIndex": 102,
+      "source": "content-raw/Cerpen Indonesia/ce35f9cc-a3a7-4870-91d7-60308c5a4732.png",
+      "file": "illustrations/scene-102-ce35f9cc-a3a7-4870-91d7-60308c5a4732.png",
+      "confidence": "medium",
+      "note": "kelompok belajar/presentasi"
+    },
+    {
+      "contactSheetIndex": 110,
+      "source": "content-raw/Cerpen Indonesia/dea8cac0-c1e3-415c-ab93-af797c019de1.png",
+      "file": "illustrations/scene-110-dea8cac0-c1e3-415c-ab93-af797c019de1.png",
+      "confidence": "high",
+      "note": "remaja berbicara dengan Angku Sutan"
+    },
+    {
+      "contactSheetIndex": 111,
+      "source": "content-raw/Cerpen Indonesia/df064092-0faf-40f3-a053-6a2a76a1d0e1.png",
+      "file": "illustrations/scene-111-df064092-0faf-40f3-a053-6a2a76a1d0e1.png",
+      "confidence": "high",
+      "note": "tetua dan remaja di halaman/bambu"
+    }
+  ]
+}

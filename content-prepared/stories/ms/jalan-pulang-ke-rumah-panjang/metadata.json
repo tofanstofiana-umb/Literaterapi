@@ -1,0 +1,47 @@
+{
+  "slug": "jalan-pulang-ke-rumah-panjang",
+  "title": "Jalan Pulang ke Rumah Panjang",
+  "originCountry": "Malaysia",
+  "originalLanguage": "ms-MY",
+  "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 7/Teks-malay-7.docx",
+  "sourceTitleParagraphIndex": 1,
+  "sourceIntroParagraphs": [
+    "Untuk remaja yang sedang mengalami kebergantungan ubat"
+  ],
+  "rawWordCount": 768,
+  "cleanWordCount": 761,
+  "readingEstimateMinutes": 5,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "substance_dependence_related",
+  "publicCategorySlugs": [
+    "mencari-pegangan",
+    "meminta-bantuan",
+    "menemukan-harapan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/02930dbe-b5bb-4579-ba4a-ed59f8654b4b.png",
+    "illustrations/0406784d-4efc-4c02-a65b-3b3dc07a1562.png",
+    "illustrations/1.png",
+    "illustrations/376f63c8-a187-4b31-ac65-589dc35da17a.png",
+    "illustrations/42b79aba-c96c-4aba-9322-1c8e9d892af0.png",
+    "illustrations/8d614bad-ec94-478d-847e-97238ef44b66 (1).png",
+    "illustrations/d5e23f7b-63c8-43cb-915c-5b60e601c66c.png",
+    "illustrations/df26966b-8c1c-46b8-9456-aaa752912a40.png",
+    "illustrations/f62bdb29-54e9-4903-8ca5-223cc5bc202d.png"
+  ],
+  "notes": [
+    "Dokumen sumber memiliki pengantar sebelum judul cerpen; lihat sourceIntroParagraphs dan source-full.md."
+  ],
+  "publicCategoryRationale": {
+    "mencari-pegangan": "menekankan penemuan pijakan diri, nilai, rutinitas, atau orang tepercaya",
+    "meminta-bantuan": "mendorong siswa mengenali bahwa dukungan orang lain boleh dicari",
+    "menemukan-harapan": "menekankan kemungkinan pulih, bertumbuh, atau menemukan arah baru"
+  }
+}

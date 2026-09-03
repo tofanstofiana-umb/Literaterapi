@@ -1,0 +1,44 @@
+{
+  "slug": "kabus-di-kaki-bukit",
+  "title": "Kabus di Kaki Bukit",
+  "originCountry": "Malaysia",
+  "originalLanguage": "ms-MY",
+  "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 2/Teks-cerpen-malay-2.docx",
+  "sourceTitleParagraphIndex": 1,
+  "sourceIntroParagraphs": [
+    "Untuk remaja yang sedang dilanda kemurungan"
+  ],
+  "rawWordCount": 705,
+  "cleanWordCount": 699,
+  "readingEstimateMinutes": 4,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "depressive_related",
+  "publicCategorySlugs": [
+    "menemukan-harapan",
+    "meminta-bantuan",
+    "mencari-pegangan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/31781e0c-0293-4859-9843-ed45673ab353.png",
+    "illustrations/31b904c9-1a90-42fa-bf85-1c737c0f2537.png",
+    "illustrations/8d4a217c-2541-4e07-a857-2fe10e623567.png",
+    "illustrations/b33cf60a-b48e-4398-8c8a-c3a4bbfc7f7c.png",
+    "illustrations/e96bff92-7dd9-4193-8e47-b2444c27aea6.png",
+    "illustrations/f06f1eab-1c06-4171-b040-9567e6b06825.png"
+  ],
+  "notes": [
+    "Dokumen sumber memiliki pengantar sebelum judul cerpen; lihat sourceIntroParagraphs dan source-full.md."
+  ],
+  "publicCategoryRationale": {
+    "menemukan-harapan": "menekankan kemungkinan pulih, bertumbuh, atau menemukan arah baru",
+    "meminta-bantuan": "mendorong siswa mengenali bahwa dukungan orang lain boleh dicari",
+    "mencari-pegangan": "menekankan penemuan pijakan diri, nilai, rutinitas, atau orang tepercaya"
+  }
+}

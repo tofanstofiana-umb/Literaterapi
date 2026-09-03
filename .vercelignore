@@ -1,0 +1,23 @@
+.env
+.env.*
+.next
+node_modules
+*.log
+*.tsbuildinfo
+
+# File audio sumber besar di root proyek tidak perlu ikut deploy.
+/*.mp3
+/*.wav
+/*.ogg
+/*.m4a
+/*.aac
+
+content-raw
+content-prepared
+html-preview
+
+# Aplikasi memakai salinan JPG terkompresi untuk deploy.
+public/assets/stories/**/*.png
+
+# Jangan deploy metadata workspace yang tidak sengaja masuk ke public.
+public/**/*.code-workspace

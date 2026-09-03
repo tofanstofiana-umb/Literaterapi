@@ -1,0 +1,90 @@
+{
+  "slug": "cahaya-yang-selalu-ada",
+  "title": "Cahaya yang Selalu Ada",
+  "originCountry": "Indonesia",
+  "originalLanguage": "id-ID",
+  "sourceDocx": "content-raw/Cerpen Indonesia/Cahaya yang Selalu Ada 7.docx",
+  "sourceTitleParagraphIndex": 0,
+  "sourceIntroParagraphs": [],
+  "rawWordCount": 642,
+  "cleanWordCount": 642,
+  "readingEstimateMinutes": 4,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "body_image_related",
+  "publicCategorySlugs": [
+    "menghargai-diri",
+    "mendengarkan-tubuh",
+    "menemukan-harapan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped_best_effort",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/scene-011-221c7b94-2b16-4b63-8c45-e4977f9c343b.png",
+    "illustrations/scene-021-393f59fb-ff2e-4cad-81c2-855b516c60f2.png",
+    "illustrations/scene-050-7065f4a4-8204-4960-81a1-f90f872d5487.png",
+    "illustrations/scene-057-796d91a0-bd2f-40ca-9d07-8e594d706cd4.png",
+    "illustrations/scene-117-ecf9b2d8-1d00-445b-aef9-d9fa5ba355b0.png",
+    "illustrations/scene-127-fc928fe8-361c-4bf3-beb3-c8ec7c0d8f31.png"
+  ],
+  "notes": [
+    "Gambar Indonesia belum dipetakan otomatis; lihat content-raw/contact-sheets.",
+    "Sampul Indonesia dipetakan dari contact sheet berdasarkan judul yang terlihat; ilustrasi adegan belum dipaksa karena file mentah tidak membawa penanda cerita.",
+    "Ilustrasi adegan Indonesia dipetakan secara best-effort dari contact sheet; tinjau ulang bila digunakan sebagai bukti visual final."
+  ],
+  "publicCategoryRationale": {
+    "menghargai-diri": "menekankan penerimaan diri dan nilai diri yang tidak bergantung pada penilaian luar",
+    "mendengarkan-tubuh": "menekankan relasi sehat dengan tubuh dan sinyal kebutuhan diri",
+    "menemukan-harapan": "menekankan kemungkinan pulih, bertumbuh, atau menemukan arah baru"
+  },
+  "coverSource": "content-raw/Cerpen Indonesia/d86b0dcb-2af8-4632-aebf-1e9145e13c2c.png",
+  "imageMappingConfidence": "high_for_cover_mixed_for_scene_illustrations",
+  "illustrationMapping": [
+    {
+      "contactSheetIndex": 11,
+      "source": "content-raw/Cerpen Indonesia/221c7b94-2b16-4b63-8c45-e4977f9c343b.png",
+      "file": "illustrations/scene-011-221c7b94-2b16-4b63-8c45-e4977f9c343b.png",
+      "confidence": "high",
+      "note": "cermin dan rumah Toraja"
+    },
+    {
+      "contactSheetIndex": 21,
+      "source": "content-raw/Cerpen Indonesia/393f59fb-ff2e-4cad-81c2-855b516c60f2.png",
+      "file": "illustrations/scene-021-393f59fb-ff2e-4cad-81c2-855b516c60f2.png",
+      "confidence": "high",
+      "note": "Rara dan Nene Bua di tongkonan"
+    },
+    {
+      "contactSheetIndex": 50,
+      "source": "content-raw/Cerpen Indonesia/7065f4a4-8204-4960-81a1-f90f872d5487.png",
+      "file": "illustrations/scene-050-7065f4a4-8204-4960-81a1-f90f872d5487.png",
+      "confidence": "high",
+      "note": "nasihat Nene Bua di tongkonan"
+    },
+    {
+      "contactSheetIndex": 57,
+      "source": "content-raw/Cerpen Indonesia/796d91a0-bd2f-40ca-9d07-8e594d706cd4.png",
+      "file": "illustrations/scene-057-796d91a0-bd2f-40ca-9d07-8e594d706cd4.png",
+      "confidence": "medium",
+      "note": "dukungan keluarga/perempuan dewasa"
+    },
+    {
+      "contactSheetIndex": 117,
+      "source": "content-raw/Cerpen Indonesia/ecf9b2d8-1d00-445b-aef9-d9fa5ba355b0.png",
+      "file": "illustrations/scene-117-ecf9b2d8-1d00-445b-aef9-d9fa5ba355b0.png",
+      "confidence": "medium",
+      "note": "percakapan dukungan dengan pendamping perempuan"
+    },
+    {
+      "contactSheetIndex": 127,
+      "source": "content-raw/Cerpen Indonesia/fc928fe8-361c-4bf3-beb3-c8ec7c0d8f31.png",
+      "file": "illustrations/scene-127-fc928fe8-361c-4bf3-beb3-c8ec7c0d8f31.png",
+      "confidence": "high",
+      "note": "Rara berjalan di sekitar tongkonan"
+    }
+  ]
+}

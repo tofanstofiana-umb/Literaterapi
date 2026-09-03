@@ -1,0 +1,75 @@
+{
+  "slug": "nyala-yang-tidak-pernah-berkurang",
+  "title": "Nyala yang Tidak Pernah Berkurang",
+  "originCountry": "Indonesia",
+  "originalLanguage": "id-ID",
+  "sourceDocx": "content-raw/Cerpen Indonesia/SAKTI_Depressive_Cerpen 4_Nyala yang Tidak Pernah Berkurang.docx",
+  "sourceTitleParagraphIndex": 7,
+  "sourceIntroParagraphs": [
+    "PAHAMI TENTANG \"GANGGUAN SUASANA HATI (DEPRESSIVE DISORDER)\" DENGAN \"SAKTI\"",
+    "(SADARI, AKTIF, KRITIS, TERBUKA, IMERSI)",
+    "Salam. Semoga Anda senantiasa diberi kesehatan, aamiin.",
+    "Selamat bergabung di media SAKTI ini. Anda akan mendapatkan informasi yang bermanfaat tentang menemukan kembali tujuan hidup setelah merasa kosong dan kehilangan minat melalui kisah singkat. Mari nikmati langkah-langkahnya!",
+    "Narator: Anda akan membaca cerita yang berisi pengalaman seorang remaja yang merasa kosong dan kehilangan minat, namun perlahan menemukan kembali tujuan hidupnya, dengan penuh kesadaran karena Anda menyayangi diri Anda.",
+    "\"Sebelum saya membaca cerita ini, saya membuka hati dan pikiran saya dengan tenang. Saya menyayangi diri saya, walau kadang saya merasa kosong atau hampa.\"",
+    "Narator: Silakan baca kisah berikut dengan saksama."
+  ],
+  "rawWordCount": 1209,
+  "cleanWordCount": 1098,
+  "readingEstimateMinutes": 7,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "depressive_related",
+  "publicCategorySlugs": [
+    "menemukan-harapan",
+    "menghargai-diri",
+    "mencari-pegangan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped_best_effort",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/scene-045-693974bc-ce72-495d-8a03-1145fe5df2ff.png",
+    "illustrations/scene-086-aa6c9a8e-f9d0-47b3-a217-ed2a78ddd802.png",
+    "illustrations/scene-090-b077cd96-cb98-4542-8ee0-3817b16c4af5.png"
+  ],
+  "notes": [
+    "Gambar Indonesia belum dipetakan otomatis; lihat content-raw/contact-sheets.",
+    "Dokumen sumber memiliki pengantar sebelum judul cerpen; lihat sourceIntroParagraphs dan source-full.md.",
+    "Sampul Indonesia dipetakan dari contact sheet berdasarkan judul yang terlihat; ilustrasi adegan belum dipaksa karena file mentah tidak membawa penanda cerita.",
+    "Ilustrasi adegan Indonesia dipetakan secara best-effort dari contact sheet; tinjau ulang bila digunakan sebagai bukti visual final."
+  ],
+  "publicCategoryRationale": {
+    "menemukan-harapan": "menekankan kemungkinan pulih, bertumbuh, atau menemukan arah baru",
+    "menghargai-diri": "menekankan penerimaan diri dan nilai diri yang tidak bergantung pada penilaian luar",
+    "mencari-pegangan": "menekankan penemuan pijakan diri, nilai, rutinitas, atau orang tepercaya"
+  },
+  "coverSource": "content-raw/Cerpen Indonesia/9539838a-5dff-406e-a581-cd5161c50234.png",
+  "imageMappingConfidence": "high_for_cover_mixed_for_scene_illustrations",
+  "illustrationMapping": [
+    {
+      "contactSheetIndex": 45,
+      "source": "content-raw/Cerpen Indonesia/693974bc-ce72-495d-8a03-1145fe5df2ff.png",
+      "file": "illustrations/scene-045-693974bc-ce72-495d-8a03-1145fe5df2ff.png",
+      "confidence": "high",
+      "note": "kegiatan seni/lukis"
+    },
+    {
+      "contactSheetIndex": 86,
+      "source": "content-raw/Cerpen Indonesia/aa6c9a8e-f9d0-47b3-a217-ed2a78ddd802.png",
+      "file": "illustrations/scene-086-aa6c9a8e-f9d0-47b3-a217-ed2a78ddd802.png",
+      "confidence": "high",
+      "note": "membantu anak lain melukis"
+    },
+    {
+      "contactSheetIndex": 90,
+      "source": "content-raw/Cerpen Indonesia/b077cd96-cb98-4542-8ee0-3817b16c4af5.png",
+      "file": "illustrations/scene-090-b077cd96-cb98-4542-8ee0-3817b16c4af5.png",
+      "confidence": "high",
+      "note": "menghilang/menyendiri di kelas"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "satu-keping-sagu-untuk-berdua",
+  "title": "Satu Keping Sagu untuk Berdua",
+  "originCountry": "Indonesia",
+  "originalLanguage": "id-ID",
+  "sourceDocx": "content-raw/Cerpen Indonesia/SAKTI_Anxiety_Cerpen 2_Satu Keping Sagu untuk Berdua.docx",
+  "sourceTitleParagraphIndex": 7,
+  "sourceIntroParagraphs": [
+    "PAHAMI TENTANG \"KECEMASAN BERLEBIHAN (ANXIETY DISORDER)\" DENGAN \"SAKTI\"",
+    "(SADARI, AKTIF, KRITIS, TERBUKA, IMERSI)",
+    "Salam. Semoga Anda senantiasa diberi kesehatan, aamiin.",
+    "Selamat bergabung di media SAKTI ini. Anda akan mendapatkan informasi yang bermanfaat tentang menemukan kekuatan dari dukungan orang sekitar saat menghadapi kecemasan melalui kisah singkat. Mari nikmati langkah-langkahnya!",
+    "Narator: Anda akan membaca cerita yang berisi pengalaman seorang remaja menghadapi kecemasan dan menemukan dukungan dari sekitarnya, dengan penuh kesadaran karena Anda menyayangi diri Anda.",
+    "\"Sebelum saya membaca cerita ini, saya membuka hati dan pikiran saya dengan tenang. Saya menyayangi diri saya dan siap memahami beban yang sering saya pikul sendirian.\"",
+    "Narator: Silakan baca kisah berikut dengan saksama."
+  ],
+  "rawWordCount": 1000,
+  "cleanWordCount": 975,
+  "readingEstimateMinutes": 6,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "anxiety_related",
+  "publicCategorySlugs": [
+    "meminta-bantuan",
+    "membangun-pertemanan-sehat",
+    "berani-menghadapi-tekanan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped_best_effort",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/scene-002-0a94fa90-b726-4e3a-8314-4c5df71e519d.png",
+    "illustrations/scene-008-16e63f66-2c2c-4063-a012-ed67a4553f39.png",
+    "illustrations/scene-020-358b7194-7ee4-4635-83a9-c35456e5ba36.png",
+    "illustrations/scene-035-58805a28-3570-4fe5-9e9b-1a30055d114d.png",
+    "illustrations/scene-046-6a2c3e15-cbb9-41ec-8709-cf2fcb19c498.png",
+    "illustrations/scene-047-6ac9b71f-2998-409c-a0cd-080c883a662e.png",
+    "illustrations/scene-060-7f69c47f-567c-4852-bcb7-9329e73bd74d.png",
+    "illustrations/scene-079-9ce18787-e81f-422c-a1d6-dfad9c0a1e96.png",
+    "illustrations/scene-089-ae526e79-fc19-4f81-b7fb-8261a366930d.png",
+    "illustrations/scene-093-b6599da1-0e21-4f62-9279-834c12a16391.png",
+    "illustrations/scene-018-2c97f45d-9d73-4dfc-be4f-6fe266641956.png"
+  ],
+  "notes": [
+    "Gambar Indonesia belum dipetakan otomatis; lihat content-raw/contact-sheets.",
+    "Dokumen sumber memiliki pengantar sebelum judul cerpen; lihat sourceIntroParagraphs dan source-full.md.",
+    "Sampul Indonesia dipetakan dari contact sheet berdasarkan judul yang terlihat; ilustrasi adegan belum dipaksa karena file mentah tidak membawa penanda cerita.",
+    "Ilustrasi adegan Indonesia dipetakan secara best-effort dari contact sheet; tinjau ulang bila digunakan sebagai bukti visual final."
+  ],
+  "publicCategoryRationale": {
+    "meminta-bantuan": "mendorong siswa mengenali bahwa dukungan orang lain boleh dicari",
+    "membangun-pertemanan-sehat": "menekankan relasi, empati, batas, dan dukungan teman",
+    "berani-menghadapi-tekanan": "menekankan keberanian menghadapi situasi sosial atau tuntutan yang terasa berat"
+  },
+  "coverSource": "content-raw/Cerpen Indonesia/2b7287b1-d11e-4fbe-854b-6f70d5f6aacd.png",
+  "imageMappingConfidence": "high_for_cover_mixed_for_scene_illustrations",
+  "illustrationMapping": [
+    {
+      "contactSheetIndex": 2,
+      "source": "content-raw/Cerpen Indonesia/0a94fa90-b726-4e3a-8314-4c5df71e519d.png",
+      "file": "illustrations/scene-002-0a94fa90-b726-4e3a-8314-4c5df71e519d.png",
+      "confidence": "medium",
+      "note": "kelompok dukungan teman"
+    },
+    {
+      "contactSheetIndex": 8,
+      "source": "content-raw/Cerpen Indonesia/16e63f66-2c2c-4063-a012-ed67a4553f39.png",
+      "file": "illustrations/scene-008-16e63f66-2c2c-4063-a012-ed67a4553f39.png",
+      "confidence": "medium",
+      "note": "guru BK mendampingi siswa"
+    },
+    {
+      "contactSheetIndex": 20,
+      "source": "content-raw/Cerpen Indonesia/358b7194-7ee4-4635-83a9-c35456e5ba36.png",
+      "file": "illustrations/scene-020-358b7194-7ee4-4635-83a9-c35456e5ba36.png",
+      "confidence": "medium",
+      "note": "kamar malam dan pikiran cemas"
+    },
+    {
+      "contactSheetIndex": 35,
+      "source": "content-raw/Cerpen Indonesia/58805a28-3570-4fe5-9e9b-1a30055d114d.png",
+      "file": "illustrations/scene-035-58805a28-3570-4fe5-9e9b-1a30055d114d.png",
+      "confidence": "high",
+      "note": "makan bersama/dukungan teman"
+    },
+    {
+      "contactSheetIndex": 46,
+      "source": "content-raw/Cerpen Indonesia/6a2c3e15-cbb9-41ec-8709-cf2fcb19c498.png",
+      "file": "illustrations/scene-046-6a2c3e15-cbb9-41ec-8709-cf2fcb19c498.png",
+      "confidence": "high",
+      "note": "ujian lisan/presentasi"
+    },
+    {
+      "contactSheetIndex": 47,
+      "source": "content-raw/Cerpen Indonesia/6ac9b71f-2998-409c-a0cd-080c883a662e.png",
+      "file": "illustrations/scene-047-6ac9b71f-2998-409c-a0cd-080c883a662e.png",
+      "confidence": "medium",
+      "note": "konseling dengan guru BK"
+    },
+    {
+      "contactSheetIndex": 60,
+      "source": "content-raw/Cerpen Indonesia/7f69c47f-567c-4852-bcb7-9329e73bd74d.png",
+      "file": "illustrations/scene-060-7f69c47f-567c-4852-bcb7-9329e73bd74d.png",
+      "confidence": "medium",
+      "note": "pendampingan guru/konselor"
+    },
+    {
+      "contactSheetIndex": 79,
+      "source": "content-raw/Cerpen Indonesia/9ce18787-e81f-422c-a1d6-dfad9c0a1e96.png",
+      "file": "illustrations/scene-079-9ce18787-e81f-422c-a1d6-dfad9c0a1e96.png",
+      "confidence": "medium",
+      "note": "lingkar dukungan dengan teman dan pendamping"
+    },
+    {
+      "contactSheetIndex": 89,
+      "source": "content-raw/Cerpen Indonesia/ae526e79-fc19-4f81-b7fb-8261a366930d.png",
+      "file": "illustrations/scene-089-ae526e79-fc19-4f81-b7fb-8261a366930d.png",
+      "confidence": "medium",
+      "note": "Rangga menepuk pundak Kelana, ditempatkan manual setelah kalimat \"Santai, Kel. Aku juga sering begitu kok. Kamu mau cerita?\""
+    },
+    {
+      "contactSheetIndex": 93,
+      "source": "content-raw/Cerpen Indonesia/b6599da1-0e21-4f62-9279-834c12a16391.png",
+      "file": "illustrations/scene-093-b6599da1-0e21-4f62-9279-834c12a16391.png",
+      "confidence": "medium",
+      "note": "makan/dukungan dengan pendamping"
+    },
+    {
+      "contactSheetIndex": 18,
+      "source": "content-raw/Cerpen Indonesia/2c97f45d-9d73-4dfc-be4f-6fe266641956.png",
+      "file": "illustrations/scene-018-2c97f45d-9d73-4dfc-be4f-6fe266641956.png",
+      "confidence": "medium",
+      "note": "sarapan bersama ibu, ditempatkan manual setelah kalimat \"Lalu menyesal sepanjang hari. Aku merasa rusak. Aku merasa sendirian.\""
+    }
+  ]
+}

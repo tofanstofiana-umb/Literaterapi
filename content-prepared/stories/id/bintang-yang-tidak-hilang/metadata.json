@@ -1,0 +1,122 @@
+{
+  "slug": "bintang-yang-tidak-hilang",
+  "title": "Bintang yang Tidak Hilang",
+  "originCountry": "Indonesia",
+  "originalLanguage": "id-ID",
+  "sourceDocx": "content-raw/Cerpen Indonesia/Bintang yang Tidak Hilang.docx",
+  "sourceTitleParagraphIndex": 0,
+  "sourceIntroParagraphs": [],
+  "rawWordCount": 661,
+  "cleanWordCount": 661,
+  "readingEstimateMinutes": 4,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "psychosis_related",
+  "publicCategorySlugs": [
+    "meminta-bantuan",
+    "menemukan-harapan",
+    "mencari-pegangan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped_best_effort",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/scene-012-25a38c09-5437-4c34-81a5-eb2556edefbb.png",
+    "illustrations/scene-014-27329b93-f633-4a4a-ac1f-97b8b679eb93.png",
+    "illustrations/scene-016-28f66ddf-9884-4180-8bd3-0dede6792ce3.png",
+    "illustrations/scene-038-5abc22a0-f361-4f05-9193-968b4b1583c1.png",
+    "illustrations/scene-039-5bbf5aeb-e9d1-4f76-80f1-764dd9b959d0.png",
+    "illustrations/scene-049-6dff0194-a43b-4a90-abb7-c69f25211519.png",
+    "illustrations/scene-074-951ad516-a44a-410f-9053-31d38b3cf2ea.png",
+    "illustrations/scene-085-a872a437-af71-40de-b48a-a374cfa39827.png",
+    "illustrations/scene-120-f4f3d51d-f3b5-4ee6-af38-8e537cfe4b11.png",
+    "illustrations/scene-121-f52285c6-9b20-47c8-9dbe-a913dba1733f.png"
+  ],
+  "notes": [
+    "Gambar Indonesia belum dipetakan otomatis; lihat content-raw/contact-sheets.",
+    "Sampul Indonesia dipetakan dari contact sheet berdasarkan judul yang terlihat; ilustrasi adegan belum dipaksa karena file mentah tidak membawa penanda cerita.",
+    "Ilustrasi adegan Indonesia dipetakan secara best-effort dari contact sheet; tinjau ulang bila digunakan sebagai bukti visual final."
+  ],
+  "publicCategoryRationale": {
+    "meminta-bantuan": "mendorong siswa mengenali bahwa dukungan orang lain boleh dicari",
+    "menemukan-harapan": "menekankan kemungkinan pulih, bertumbuh, atau menemukan arah baru",
+    "mencari-pegangan": "menekankan penemuan pijakan diri, nilai, rutinitas, atau orang tepercaya"
+  },
+  "coverSource": "content-raw/Cerpen Indonesia/ea4c1097-1449-4d07-bf49-92f5f6544591.png",
+  "imageMappingConfidence": "high_for_cover_mixed_for_scene_illustrations",
+  "illustrationMapping": [
+    {
+      "contactSheetIndex": 12,
+      "source": "content-raw/Cerpen Indonesia/25a38c09-5437-4c34-81a5-eb2556edefbb.png",
+      "file": "illustrations/scene-012-25a38c09-5437-4c34-81a5-eb2556edefbb.png",
+      "confidence": "medium",
+      "note": "remaja dengan pendamping dewasa di ruang tradisional"
+    },
+    {
+      "contactSheetIndex": 14,
+      "source": "content-raw/Cerpen Indonesia/27329b93-f633-4a4a-ac1f-97b8b679eb93.png",
+      "file": "illustrations/scene-014-27329b93-f633-4a4a-ac1f-97b8b679eb93.png",
+      "confidence": "high",
+      "note": "percakapan malam dengan Pak Ketut/tetua"
+    },
+    {
+      "contactSheetIndex": 16,
+      "source": "content-raw/Cerpen Indonesia/28f66ddf-9884-4180-8bd3-0dede6792ce3.png",
+      "file": "illustrations/scene-016-28f66ddf-9884-4180-8bd3-0dede6792ce3.png",
+      "confidence": "medium",
+      "note": "kebersamaan di lingkungan budaya Bali"
+    },
+    {
+      "contactSheetIndex": 38,
+      "source": "content-raw/Cerpen Indonesia/5abc22a0-f361-4f05-9193-968b4b1583c1.png",
+      "file": "illustrations/scene-038-5abc22a0-f361-4f05-9193-968b4b1583c1.png",
+      "confidence": "medium",
+      "note": "remaja duduk sendiri di bawah pohon"
+    },
+    {
+      "contactSheetIndex": 39,
+      "source": "content-raw/Cerpen Indonesia/5bbf5aeb-e9d1-4f76-80f1-764dd9b959d0.png",
+      "file": "illustrations/scene-039-5bbf5aeb-e9d1-4f76-80f1-764dd9b959d0.png",
+      "confidence": "medium",
+      "note": "lingkar dukungan di ruang tradisional"
+    },
+    {
+      "contactSheetIndex": 49,
+      "source": "content-raw/Cerpen Indonesia/6dff0194-a43b-4a90-abb7-c69f25211519.png",
+      "file": "illustrations/scene-049-6dff0194-a43b-4a90-abb7-c69f25211519.png",
+      "confidence": "high",
+      "note": "percakapan dengan tetua di bawah pohon"
+    },
+    {
+      "contactSheetIndex": 74,
+      "source": "content-raw/Cerpen Indonesia/951ad516-a44a-410f-9053-31d38b3cf2ea.png",
+      "file": "illustrations/scene-074-951ad516-a44a-410f-9053-31d38b3cf2ea.png",
+      "confidence": "high",
+      "note": "langit berbintang sebagai metafora cerita"
+    },
+    {
+      "contactSheetIndex": 85,
+      "source": "content-raw/Cerpen Indonesia/a872a437-af71-40de-b48a-a374cfa39827.png",
+      "file": "illustrations/scene-085-a872a437-af71-40de-b48a-a374cfa39827.png",
+      "confidence": "low",
+      "note": "remaja masuk kamar/ruang gelap dengan beban pikiran"
+    },
+    {
+      "contactSheetIndex": 120,
+      "source": "content-raw/Cerpen Indonesia/f4f3d51d-f3b5-4ee6-af38-8e537cfe4b11.png",
+      "file": "illustrations/scene-120-f4f3d51d-f3b5-4ee6-af38-8e537cfe4b11.png",
+      "confidence": "medium",
+      "note": "remaja mendengar nasihat tetua"
+    },
+    {
+      "contactSheetIndex": 121,
+      "source": "content-raw/Cerpen Indonesia/f52285c6-9b20-47c8-9dbe-a913dba1733f.png",
+      "file": "illustrations/scene-121-f52285c6-9b20-47c8-9dbe-a913dba1733f.png",
+      "confidence": "medium",
+      "note": "remaja dan tetua di bawah pohon"
+    }
+  ]
+}

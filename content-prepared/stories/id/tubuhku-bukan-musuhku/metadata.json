@@ -1,0 +1,122 @@
+{
+  "slug": "tubuhku-bukan-musuhku",
+  "title": "Tubuhku Bukan Musuhku",
+  "originCountry": "Indonesia",
+  "originalLanguage": "id-ID",
+  "sourceDocx": "content-raw/Cerpen Indonesia/Tubuhku Bukan Musuhku 6.docx",
+  "sourceTitleParagraphIndex": 0,
+  "sourceIntroParagraphs": [],
+  "rawWordCount": 784,
+  "cleanWordCount": 784,
+  "readingEstimateMinutes": 5,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "body_image_related",
+  "publicCategorySlugs": [
+    "mendengarkan-tubuh",
+    "menghargai-diri",
+    "meminta-bantuan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped_best_effort",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/scene-006-0f72bc27-3d2c-4e9e-8b84-8511b0fe60d7.png",
+    "illustrations/scene-029-519d8581-c971-4b46-bbaf-e77e14bbf09a.png",
+    "illustrations/scene-055-769fbea8-6f91-4af5-b9b5-dc4caa0a0f08.png",
+    "illustrations/scene-058-79cba7ef-e159-49c9-9c20-2688ad988237.png",
+    "illustrations/scene-062-82c88e1d-8901-4198-a25d-91cc5bb9350f.png",
+    "illustrations/scene-064-8540538c-732c-4e79-ab13-e1d034c1fe1e.png",
+    "illustrations/scene-068-8e8cbd91-5010-49d8-abdb-d4981107867e.png",
+    "illustrations/scene-073-94a2bb7a-7d00-4434-b7ba-ae051c133157.png",
+    "illustrations/scene-083-a78ecbe6-88b0-496b-addd-812a9836cd48.png",
+    "illustrations/scene-091-b0ba73d0-4a9f-44ee-9bbc-4a60b4045966.png"
+  ],
+  "notes": [
+    "Gambar Indonesia belum dipetakan otomatis; lihat content-raw/contact-sheets.",
+    "Sampul Indonesia dipetakan dari contact sheet berdasarkan judul yang terlihat; ilustrasi adegan belum dipaksa karena file mentah tidak membawa penanda cerita.",
+    "Ilustrasi adegan Indonesia dipetakan secara best-effort dari contact sheet; tinjau ulang bila digunakan sebagai bukti visual final."
+  ],
+  "publicCategoryRationale": {
+    "mendengarkan-tubuh": "menekankan relasi sehat dengan tubuh dan sinyal kebutuhan diri",
+    "menghargai-diri": "menekankan penerimaan diri dan nilai diri yang tidak bergantung pada penilaian luar",
+    "meminta-bantuan": "mendorong siswa mengenali bahwa dukungan orang lain boleh dicari"
+  },
+  "coverSource": "content-raw/Cerpen Indonesia/4fa8983e-9f09-4890-a34b-19aa0685d48c.png",
+  "imageMappingConfidence": "high_for_cover_mixed_for_scene_illustrations",
+  "illustrationMapping": [
+    {
+      "contactSheetIndex": 6,
+      "source": "content-raw/Cerpen Indonesia/0f72bc27-3d2c-4e9e-8b84-8511b0fe60d7.png",
+      "file": "illustrations/scene-006-0f72bc27-3d2c-4e9e-8b84-8511b0fe60d7.png",
+      "confidence": "medium",
+      "note": "dukungan teman sebaya"
+    },
+    {
+      "contactSheetIndex": 29,
+      "source": "content-raw/Cerpen Indonesia/519d8581-c971-4b46-bbaf-e77e14bbf09a.png",
+      "file": "illustrations/scene-029-519d8581-c971-4b46-bbaf-e77e14bbf09a.png",
+      "confidence": "medium",
+      "note": "konseling tentang tubuh dan diri"
+    },
+    {
+      "contactSheetIndex": 55,
+      "source": "content-raw/Cerpen Indonesia/769fbea8-6f91-4af5-b9b5-dc4caa0a0f08.png",
+      "file": "illustrations/scene-055-769fbea8-6f91-4af5-b9b5-dc4caa0a0f08.png",
+      "confidence": "medium",
+      "note": "cermin dan kegelisahan tubuh"
+    },
+    {
+      "contactSheetIndex": 58,
+      "source": "content-raw/Cerpen Indonesia/79cba7ef-e159-49c9-9c20-2688ad988237.png",
+      "file": "illustrations/scene-058-79cba7ef-e159-49c9-9c20-2688ad988237.png",
+      "confidence": "medium",
+      "note": "makan bersama dan dukungan keluarga"
+    },
+    {
+      "contactSheetIndex": 62,
+      "source": "content-raw/Cerpen Indonesia/82c88e1d-8901-4198-a25d-91cc5bb9350f.png",
+      "file": "illustrations/scene-062-82c88e1d-8901-4198-a25d-91cc5bb9350f.png",
+      "confidence": "medium",
+      "note": "konseling di ruang sekolah/kesehatan"
+    },
+    {
+      "contactSheetIndex": 64,
+      "source": "content-raw/Cerpen Indonesia/8540538c-732c-4e79-ab13-e1d034c1fe1e.png",
+      "file": "illustrations/scene-064-8540538c-732c-4e79-ab13-e1d034c1fe1e.png",
+      "confidence": "medium",
+      "note": "konseling dengan keluarga"
+    },
+    {
+      "contactSheetIndex": 68,
+      "source": "content-raw/Cerpen Indonesia/8e8cbd91-5010-49d8-abdb-d4981107867e.png",
+      "file": "illustrations/scene-068-8e8cbd91-5010-49d8-abdb-d4981107867e.png",
+      "confidence": "medium",
+      "note": "dukungan ibu/keluarga di kamar"
+    },
+    {
+      "contactSheetIndex": 73,
+      "source": "content-raw/Cerpen Indonesia/94a2bb7a-7d00-4434-b7ba-ae051c133157.png",
+      "file": "illustrations/scene-073-94a2bb7a-7d00-4434-b7ba-ae051c133157.png",
+      "confidence": "medium",
+      "note": "perawatan diri/rambut bersama keluarga"
+    },
+    {
+      "contactSheetIndex": 83,
+      "source": "content-raw/Cerpen Indonesia/a78ecbe6-88b0-496b-addd-812a9836cd48.png",
+      "file": "illustrations/scene-083-a78ecbe6-88b0-496b-addd-812a9836cd48.png",
+      "confidence": "high",
+      "note": "tekanan teman sebaya tentang penampilan"
+    },
+    {
+      "contactSheetIndex": 91,
+      "source": "content-raw/Cerpen Indonesia/b0ba73d0-4a9f-44ee-9bbc-4a60b4045966.png",
+      "file": "illustrations/scene-091-b0ba73d0-4a9f-44ee-9bbc-4a60b4045966.png",
+      "confidence": "high",
+      "note": "remaja di depan cermin"
+    }
+  ]
+}

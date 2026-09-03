@@ -1,0 +1,43 @@
+{
+  "slug": "suara-di-balai-muafakat",
+  "title": "Suara di Balai Muafakat",
+  "originCountry": "Malaysia",
+  "originalLanguage": "ms-MY",
+  "sourceDocx": "content-raw/Cerpen Malaysia/Cerpen 1/Teks-cerpen-malay-1.docx",
+  "sourceTitleParagraphIndex": 1,
+  "sourceIntroParagraphs": [
+    "Untuk remaja di saat merasakan kebimbangan"
+  ],
+  "rawWordCount": 793,
+  "cleanWordCount": 787,
+  "readingEstimateMinutes": 5,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "anxiety_related",
+  "publicCategorySlugs": [
+    "berani-menghadapi-tekanan",
+    "meminta-bantuan",
+    "menemukan-ketenangan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/1c854d78-01b0-4977-bc42-cfdbfd88cc3c.png",
+    "illustrations/6b20c07b-7fda-41de-bccb-a66c7de6b4d1.png",
+    "illustrations/50eb8d5d-7dc5-47d0-bcb1-f73cdd825872.png",
+    "illustrations/9b7d389c-0bda-4098-9f5e-efd268ce830a.png",
+    "illustrations/d961dc86-85f1-46e7-a489-59776c226dd8.png"
+  ],
+  "notes": [
+    "Dokumen sumber memiliki pengantar sebelum judul cerpen; lihat sourceIntroParagraphs dan source-full.md."
+  ],
+  "publicCategoryRationale": {
+    "berani-menghadapi-tekanan": "menekankan keberanian menghadapi situasi sosial atau tuntutan yang terasa berat",
+    "meminta-bantuan": "mendorong siswa mengenali bahwa dukungan orang lain boleh dicari",
+    "menemukan-ketenangan": "menekankan jeda, regulasi diri, dan rasa aman"
+  }
+}

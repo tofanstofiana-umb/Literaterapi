@@ -1,0 +1,147 @@
+{
+  "slug": "pasar-malam-di-dalam-kepalaku",
+  "title": "Pasar Malam di Dalam Kepalaku",
+  "originCountry": "Indonesia",
+  "originalLanguage": "id-ID",
+  "sourceDocx": "content-raw/Cerpen Indonesia/SAKTI_Anxiety_Cerpen 1_Pasar Malam di Dalam Kepalaku.docx",
+  "sourceTitleParagraphIndex": 7,
+  "sourceIntroParagraphs": [
+    "PAHAMI TENTANG \"KECEMASAN BERLEBIHAN (ANXIETY DISORDER)\" DENGAN \"SAKTI\"",
+    "(SADARI, AKTIF, KRITIS, TERBUKA, IMERSI)",
+    "Salam. Semoga Anda senantiasa diberi kesehatan, aamiin.",
+    "Selamat bergabung di media SAKTI ini. Anda akan mendapatkan informasi yang bermanfaat tentang mengenali dan mengelola pikiran cemas berlebihan melalui kisah singkat. Mari nikmati langkah-langkahnya!",
+    "Narator: Anda akan membaca cerita yang berisi pengalaman seorang remaja dengan kecemasan berlebihan, dengan penuh kesadaran karena Anda menyayangi diri Anda.",
+    "\"Sebelum saya membaca cerita ini, saya membuka hati dan pikiran saya dengan tenang. Saya menyayangi diri saya dan siap memahami apa yang sedang saya rasakan.\"",
+    "Narator: Silakan baca kisah berikut dengan saksama."
+  ],
+  "rawWordCount": 1181,
+  "cleanWordCount": 1083,
+  "readingEstimateMinutes": 7,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "anxiety_related",
+  "publicCategorySlugs": [
+    "mengelola-emosi",
+    "meminta-bantuan",
+    "menemukan-ketenangan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped_best_effort",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/scene-001-07467a04-755e-46c3-91c6-c25add4b8b09.png",
+    "illustrations/scene-005-0c643f72-625d-40b6-842a-33f1d2f7149c.png",
+    "illustrations/scene-024-40401a94-8b32-467f-9e36-0226fb546027.png",
+    "illustrations/scene-048-6c6c108b-424f-4b08-b6c7-3b016927ff14.png",
+    "illustrations/scene-051-71d134a8-428b-4d1c-a314-399e3547d1cf.png",
+    "illustrations/scene-077-9bd871b8-805b-4714-891a-820ddc2c5d06.png",
+    "illustrations/scene-080-9cec6067-02a1-4368-afdf-8c9eb98ddea8.png",
+    "illustrations/scene-097-bc301ae3-ca37-4d53-acd3-064b71149c78.png",
+    "illustrations/scene-098-be2c4ad3-2929-4c87-a4af-f729b84c9d22.png",
+    "illustrations/scene-101-cbef7c5b-039b-4829-98f2-c0645f24be3a.png",
+    "illustrations/scene-114-e97def15-8650-4865-b218-134213615d4f.png",
+    "illustrations/scene-118-efb638da-00f9-4bf3-be02-7d14cf88e8d0.png"
+  ],
+  "notes": [
+    "Gambar Indonesia belum dipetakan otomatis; lihat content-raw/contact-sheets.",
+    "Dokumen sumber memiliki pengantar sebelum judul cerpen; lihat sourceIntroParagraphs dan source-full.md.",
+    "Sampul Indonesia dipetakan dari contact sheet berdasarkan judul yang terlihat; ilustrasi adegan belum dipaksa karena file mentah tidak membawa penanda cerita.",
+    "Ilustrasi adegan Indonesia dipetakan secara best-effort dari contact sheet; tinjau ulang bila digunakan sebagai bukti visual final."
+  ],
+  "publicCategoryRationale": {
+    "mengelola-emosi": "menekankan pengenalan emosi dan cara meresponsnya dengan aman",
+    "meminta-bantuan": "mendorong siswa mengenali bahwa dukungan orang lain boleh dicari",
+    "menemukan-ketenangan": "menekankan jeda, regulasi diri, dan rasa aman"
+  },
+  "coverSource": "content-raw/Cerpen Indonesia/e87a5f39-6bf8-4eb5-bd66-496da9b8a33e.png",
+  "imageMappingConfidence": "high_for_cover_mixed_for_scene_illustrations",
+  "illustrationMapping": [
+    {
+      "contactSheetIndex": 1,
+      "source": "content-raw/Cerpen Indonesia/07467a04-755e-46c3-91c6-c25add4b8b09.png",
+      "file": "illustrations/scene-001-07467a04-755e-46c3-91c6-c25add4b8b09.png",
+      "confidence": "medium",
+      "note": "BK/ruang guru dengan siswa cemas"
+    },
+    {
+      "contactSheetIndex": 5,
+      "source": "content-raw/Cerpen Indonesia/0c643f72-625d-40b6-842a-33f1d2f7149c.png",
+      "file": "illustrations/scene-005-0c643f72-625d-40b6-842a-33f1d2f7149c.png",
+      "confidence": "medium",
+      "note": "siswa berdiri di kelas dengan rasa cemas"
+    },
+    {
+      "contactSheetIndex": 24,
+      "source": "content-raw/Cerpen Indonesia/40401a94-8b32-467f-9e36-0226fb546027.png",
+      "file": "illustrations/scene-024-40401a94-8b32-467f-9e36-0226fb546027.png",
+      "confidence": "medium",
+      "note": "siswa menulis diam di kelas"
+    },
+    {
+      "contactSheetIndex": 48,
+      "source": "content-raw/Cerpen Indonesia/6c6c108b-424f-4b08-b6c7-3b016927ff14.png",
+      "file": "illustrations/scene-048-6c6c108b-424f-4b08-b6c7-3b016927ff14.png",
+      "confidence": "medium",
+      "note": "remaja mengamati kelas dari pinggir"
+    },
+    {
+      "contactSheetIndex": 51,
+      "source": "content-raw/Cerpen Indonesia/71d134a8-428b-4d1c-a314-399e3547d1cf.png",
+      "file": "illustrations/scene-051-71d134a8-428b-4d1c-a314-399e3547d1cf.png",
+      "confidence": "medium",
+      "note": "siswa cemas di bangku kelas"
+    },
+    {
+      "contactSheetIndex": 77,
+      "source": "content-raw/Cerpen Indonesia/9bd871b8-805b-4714-891a-820ddc2c5d06.png",
+      "file": "illustrations/scene-077-9bd871b8-805b-4714-891a-820ddc2c5d06.png",
+      "confidence": "medium",
+      "note": "belajar/menulis dengan pikiran gelisah"
+    },
+    {
+      "contactSheetIndex": 80,
+      "source": "content-raw/Cerpen Indonesia/9cec6067-02a1-4368-afdf-8c9eb98ddea8.png",
+      "file": "illustrations/scene-080-9cec6067-02a1-4368-afdf-8c9eb98ddea8.png",
+      "confidence": "medium",
+      "note": "bercerita kepada guru/pendamping"
+    },
+    {
+      "contactSheetIndex": 97,
+      "source": "content-raw/Cerpen Indonesia/bc301ae3-ca37-4d53-acd3-064b71149c78.png",
+      "file": "illustrations/scene-097-bc301ae3-ca37-4d53-acd3-064b71149c78.png",
+      "confidence": "medium",
+      "note": "bercerita kepada pendamping dewasa"
+    },
+    {
+      "contactSheetIndex": 98,
+      "source": "content-raw/Cerpen Indonesia/be2c4ad3-2929-4c87-a4af-f729b84c9d22.png",
+      "file": "illustrations/scene-098-be2c4ad3-2929-4c87-a4af-f729b84c9d22.png",
+      "confidence": "high",
+      "note": "visual pasar malam di kepala"
+    },
+    {
+      "contactSheetIndex": 101,
+      "source": "content-raw/Cerpen Indonesia/cbef7c5b-039b-4829-98f2-c0645f24be3a.png",
+      "file": "illustrations/scene-101-cbef7c5b-039b-4829-98f2-c0645f24be3a.png",
+      "confidence": "medium",
+      "note": "guru mendengarkan siswa"
+    },
+    {
+      "contactSheetIndex": 114,
+      "source": "content-raw/Cerpen Indonesia/e97def15-8650-4865-b218-134213615d4f.png",
+      "file": "illustrations/scene-114-e97def15-8650-4865-b218-134213615d4f.png",
+      "confidence": "medium",
+      "note": "siswa menulis di kelas"
+    },
+    {
+      "contactSheetIndex": 118,
+      "source": "content-raw/Cerpen Indonesia/efb638da-00f9-4bf3-be02-7d14cf88e8d0.png",
+      "file": "illustrations/scene-118-efb638da-00f9-4bf3-be02-7d14cf88e8d0.png",
+      "confidence": "medium",
+      "note": "konseling dengan pendamping"
+    }
+  ]
+}

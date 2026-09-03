@@ -1,0 +1,147 @@
+{
+  "slug": "langit-yang-belajar-hujan",
+  "title": "Langit yang Belajar Hujan",
+  "originCountry": "Indonesia",
+  "originalLanguage": "id-ID",
+  "sourceDocx": "content-raw/Cerpen Indonesia/SAKTI_Depressive_Cerpen 3_Langit yang Belajar Hujan.docx",
+  "sourceTitleParagraphIndex": 7,
+  "sourceIntroParagraphs": [
+    "PAHAMI TENTANG \"GANGGUAN SUASANA HATI (DEPRESSIVE DISORDER)\" DENGAN \"SAKTI\"",
+    "(SADARI, AKTIF, KRITIS, TERBUKA, IMERSI)",
+    "Salam. Semoga Anda senantiasa diberi kesehatan, aamiin.",
+    "Selamat bergabung di media SAKTI ini. Anda akan mendapatkan informasi yang bermanfaat tentang memahami kesedihan mendalam dan proses menemukan kembali makna hidup melalui kisah singkat. Mari nikmati langkah-langkahnya!",
+    "Narator: Anda akan membaca cerita yang berisi pengalaman seorang remaja menghadapi kesedihan mendalam dan perasaan kosong, dengan penuh kesadaran karena Anda menyayangi diri Anda.",
+    "\"Sebelum saya membaca cerita ini, saya membuka hati dan pikiran saya dengan tenang. Saya menyayangi diri saya dan siap memahami perasaan sedih yang kadang terasa terlalu berat.\"",
+    "Narator: Silakan baca kisah berikut dengan saksama."
+  ],
+  "rawWordCount": 1113,
+  "cleanWordCount": 1105,
+  "readingEstimateMinutes": 7,
+  "ageMin": 12,
+  "ageMax": 14,
+  "emotionalIntensity": "medium",
+  "facilitatorRequirement": "recommended",
+  "internalCategoryGuess": "depressive_related",
+  "publicCategorySlugs": [
+    "menemukan-harapan",
+    "meminta-bantuan",
+    "menemukan-ketenangan"
+  ],
+  "contentWarnings": [],
+  "culturalGlossary": [],
+  "assetStatus": "mapped_best_effort",
+  "coverImage": "cover.png",
+  "illustrations": [
+    "illustrations/scene-004-0c0b3719-b37a-4e9a-9f80-1bf7f219da36.png",
+    "illustrations/scene-040-5c9fec01-2e74-4926-83fc-343ffbefa8d4.png",
+    "illustrations/scene-042-628cc23e-92e7-47c1-8b54-f276e32a6e4d.png",
+    "illustrations/scene-044-66319d26-aff4-4d3d-a72f-38e080856145.png",
+    "illustrations/scene-054-75529aed-ab9a-446b-bb2c-15e2a6adb30b.png",
+    "illustrations/scene-063-8428e4fe-291d-44e4-9f93-c85e73c85696.png",
+    "illustrations/scene-065-8593b3b4-8515-46e9-8894-a5fc6a71b148.png",
+    "illustrations/scene-071-93d2d30e-6dac-41d8-b3ae-95c30a0a341d.png",
+    "illustrations/scene-087-ac47c032-fa5c-4d22-9222-1a418b92392c.png",
+    "illustrations/scene-094-b77572eb-9209-45b0-a07e-48bb3753eae1.png",
+    "illustrations/scene-123-fb1b9838-bedc-4c2f-ae32-0bb577d947e6.png",
+    "illustrations/scene-125-fc15b5ae-32d6-4f7a-b856-efa4b4900723.png"
+  ],
+  "notes": [
+    "Gambar Indonesia belum dipetakan otomatis; lihat content-raw/contact-sheets.",
+    "Dokumen sumber memiliki pengantar sebelum judul cerpen; lihat sourceIntroParagraphs dan source-full.md.",
+    "Sampul Indonesia dipetakan dari contact sheet berdasarkan judul yang terlihat; ilustrasi adegan belum dipaksa karena file mentah tidak membawa penanda cerita.",
+    "Ilustrasi adegan Indonesia dipetakan secara best-effort dari contact sheet; tinjau ulang bila digunakan sebagai bukti visual final."
+  ],
+  "publicCategoryRationale": {
+    "menemukan-harapan": "menekankan kemungkinan pulih, bertumbuh, atau menemukan arah baru",
+    "meminta-bantuan": "mendorong siswa mengenali bahwa dukungan orang lain boleh dicari",
+    "menemukan-ketenangan": "menekankan jeda, regulasi diri, dan rasa aman"
+  },
+  "coverSource": "content-raw/Cerpen Indonesia/2029afd6-2855-43c7-a1b3-96ad3ebe79cd.png",
+  "imageMappingConfidence": "high_for_cover_mixed_for_scene_illustrations",
+  "illustrationMapping": [
+    {
+      "contactSheetIndex": 4,
+      "source": "content-raw/Cerpen Indonesia/0c0b3719-b37a-4e9a-9f80-1bf7f219da36.png",
+      "file": "illustrations/scene-004-0c0b3719-b37a-4e9a-9f80-1bf7f219da36.png",
+      "confidence": "medium",
+      "note": "insomnia dan kamar malam"
+    },
+    {
+      "contactSheetIndex": 40,
+      "source": "content-raw/Cerpen Indonesia/5c9fec01-2e74-4926-83fc-343ffbefa8d4.png",
+      "file": "illustrations/scene-040-5c9fec01-2e74-4926-83fc-343ffbefa8d4.png",
+      "confidence": "medium",
+      "note": "pelukan keluarga setelah masa sulit"
+    },
+    {
+      "contactSheetIndex": 42,
+      "source": "content-raw/Cerpen Indonesia/628cc23e-92e7-47c1-8b54-f276e32a6e4d.png",
+      "file": "illustrations/scene-042-628cc23e-92e7-47c1-8b54-f276e32a6e4d.png",
+      "confidence": "high",
+      "note": "remaja bersama nenek di halaman"
+    },
+    {
+      "contactSheetIndex": 44,
+      "source": "content-raw/Cerpen Indonesia/66319d26-aff4-4d3d-a72f-38e080856145.png",
+      "file": "illustrations/scene-044-66319d26-aff4-4d3d-a72f-38e080856145.png",
+      "confidence": "high",
+      "note": "teman-teman datang menemani"
+    },
+    {
+      "contactSheetIndex": 54,
+      "source": "content-raw/Cerpen Indonesia/75529aed-ab9a-446b-bb2c-15e2a6adb30b.png",
+      "file": "illustrations/scene-054-75529aed-ab9a-446b-bb2c-15e2a6adb30b.png",
+      "confidence": "high",
+      "note": "adegan berenang"
+    },
+    {
+      "contactSheetIndex": 63,
+      "source": "content-raw/Cerpen Indonesia/8428e4fe-291d-44e4-9f93-c85e73c85696.png",
+      "file": "illustrations/scene-063-8428e4fe-291d-44e4-9f93-c85e73c85696.png",
+      "confidence": "high",
+      "note": "kolam renang dan hujan/gelap"
+    },
+    {
+      "contactSheetIndex": 65,
+      "source": "content-raw/Cerpen Indonesia/8593b3b4-8515-46e9-8894-a5fc6a71b148.png",
+      "file": "illustrations/scene-065-8593b3b4-8515-46e9-8894-a5fc6a71b148.png",
+      "confidence": "high",
+      "note": "remaja bersama nenek di rumah"
+    },
+    {
+      "contactSheetIndex": 71,
+      "source": "content-raw/Cerpen Indonesia/93d2d30e-6dac-41d8-b3ae-95c30a0a341d.png",
+      "file": "illustrations/scene-071-93d2d30e-6dac-41d8-b3ae-95c30a0a341d.png",
+      "confidence": "high",
+      "note": "insomnia dan langit-langit kamar"
+    },
+    {
+      "contactSheetIndex": 87,
+      "source": "content-raw/Cerpen Indonesia/ac47c032-fa5c-4d22-9222-1a418b92392c.png",
+      "file": "illustrations/scene-087-ac47c032-fa5c-4d22-9222-1a418b92392c.png",
+      "confidence": "medium",
+      "note": "teman menemani di tepi air"
+    },
+    {
+      "contactSheetIndex": 94,
+      "source": "content-raw/Cerpen Indonesia/b77572eb-9209-45b0-a07e-48bb3753eae1.png",
+      "file": "illustrations/scene-094-b77572eb-9209-45b0-a07e-48bb3753eae1.png",
+      "confidence": "medium",
+      "note": "teman-teman menemani di luar rumah"
+    },
+    {
+      "contactSheetIndex": 123,
+      "source": "content-raw/Cerpen Indonesia/fb1b9838-bedc-4c2f-ae32-0bb577d947e6.png",
+      "file": "illustrations/scene-123-fb1b9838-bedc-4c2f-ae32-0bb577d947e6.png",
+      "confidence": "medium",
+      "note": "remaja bersama nenek di rumah"
+    },
+    {
+      "contactSheetIndex": 125,
+      "source": "content-raw/Cerpen Indonesia/fc15b5ae-32d6-4f7a-b856-efa4b4900723.png",
+      "file": "illustrations/scene-125-fc15b5ae-32d6-4f7a-b856-efa4b4900723.png",
+      "confidence": "medium",
+      "note": "teman datang menemani"
+    }
+  ]
+}
